@@ -1,0 +1,60 @@
+Drive Description
+Data Science Developer:
+
+Programming Skills – knowledge of statistical programming languages like R, Python, and database query languages like SQL, Hive, Pig is desirable. 
+
+Familiarity with Scala, Java, or C++ is an added advantage.
+
+Statistics – Good applied statistical skills, including knowledge of statistical tests, distributions, regression, maximum likelihood estimators, etc. Proficiency in statistics is essential for data-driven companies. 
+
+Machine Learning – good knowledge of machine learning methods like k-Nearest Neighbors, Naive Bayes, SVM, Decision Forests. 
+
+Strong Math Skills (Multivariable Calculus and Linear Algebra) - understanding the fundamentals of Multivariable Calculus and Linear 
+
+Algebra is important as they form the basis of a lot of predictive performance or algorithm optimization techniques. 
+
+Data Wrangling – proficiency in handling imperfections in data is an important aspect of a data scientist job description. 
+
+Experience with Data Visualization Tools like matplotlib, ggplot, d3.js., Tableau that help to visually encode data
+
+Excellent Communication Skills – it is incredibly important to describe findings to a technical and non-technical audience.
+
+Strong Software Engineering Background
+
+Hands-on experience with data science tools
+
+Problem-solving aptitude
+
+Analytical mind and great business sense
+
+Degree in Computer Science, Engineering or relevant field is preferred
+
+Prior Experience as Data Analyst or Data Scientist is an added advantage.
+
+
+
+Backend Developer:
+
+Expertise and hands-on experience on Python - Must Have
+
+Expertise in REST API and any Web development framework like Django/Flask/FastAPI - Must Have
+
+Good knowledge in Linux, should understand openssl, curl and how protocols like HTTP, HTTPS, FTP, TCP, ping, DNS work - Good to Have
+
+Good knowledge of asynchronous programming, scheduler, Celery tasks - Good to Have
+
+Good knowledge of SQL queries and SQL Alchemy - Must Have
+
+Good Communication Skills – Must Have
+
+Knowledge of Cloud technology (AWS) - Good to Have
+
+Passionate about exploring new technologies
+
+
+
+How the flow will be
+
+We will be giving Problem Statement with a timeline of 1 week which begins on 21st March 2025 to conclude by 27th March 2025 to the mentioned set of students
+Our assessment will begin from 28th March to 2nd April and share the shortlisted names
+We will be in Manipal In Person for final interviews to chose the right fit amongst the shortlisted names - 4trh & 5th April

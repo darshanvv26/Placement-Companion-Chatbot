@@ -1,0 +1,52 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(mice)
+library(ggplot2)
+library(dplyr)
+library(datasets)
+library(forecast)
+library(xts)
+library(scales)
+library(lubridate)
+library(quantmod)
+```
+
+```{r}
+file1 = "Train_df_15-17.csv"
+file2 = "Train_df_18-20.csv"
+data1 = read.csv(file1, header = TRUE, stringsAsFactors = TRUE)
+data2 = read.csv(file2, header = TRUE, stringsAsFactors = TRUE)
+str(data1)
+str(data2)
+```
+```{r}
+head(data1, n = 5)
+```
+
+```{r}
+head(data2, n = 5)
+```
+
+```{r}
+categorical_cols = c("Weather", "Weather_Desc")
+data1[categorical_cols] = lapply(data1[categorical_cols], as.factor)
+str(data1)
+```
+
+
+
+```{r}
+model1 = lm(data = data1, Traffic_Vol ~ Temperature + Holiday + Snowfall_last_hour + Rainfall_last_hour + Cloud_Cover + Weather + Weather_Desc)
+summary(model1)
+```
+```{r}
+model1 = lm(data = data1, Traffic_Vol ~ Temperature + Holiday + Snowfall_last_hour + Rainfall_last_hour + Cloud_Cover + Weather_Desc)
+summary(model1)
+```
+

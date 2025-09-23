@@ -1,0 +1,19 @@
+Eligibility Criteria 
+8 CGPA in PG(Master's) 
+
+Data Intern  role - 25/01/25
+HirePro based online site 
+1 hrs - online protected written in Data Science Lab/ Remote(home) (video and audio)
+total 44 question
+14 - Analytical questions Easy Level
+30 - technical questions Easy Level
+
+2nd round Interview 3 got selected - 29/01/25
+1 hr purely based on python sql pyspark on their own IDE (Hard to clear)
+
+3rd round Interview 1 got selected - 03/02/25
+1 hr purely based on Resume
+
+1 got selected 
+Data Engineer Intern Role 
+
