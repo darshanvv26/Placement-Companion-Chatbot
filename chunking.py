@@ -163,7 +163,7 @@ def get_chunks(file_paths=None):
 if __name__ == "__main__":
 	chunks_by_type = get_chunks()
 	import json
-	# print("DOCX:", json.dumps(chunks_by_type["docx"][:2], indent=2, ensure_ascii=False))
+	# print("DOCX:", json.dumps(chunks_by_type["docx"][:], indent=2, ensure_ascii=False))
 	# print("TXT:", json.dumps(chunks_by_type["txt"][:2], indent=2, ensure_ascii=False))
 	# print("PNG:", json.dumps(chunks_by_type["png"][:2], indent=2, ensure_ascii=False))
 	print("all:", json.dumps(chunks_by_type["all"][:], indent=2, ensure_ascii=False))
