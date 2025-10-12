@@ -51,7 +51,7 @@ def main():
     print(f"Upserted {len(vectors)} vectors to index '{index_name}' (dim={vector_dim}).")
 
     # Example query
-    query = "What is the Job Description?"
+    query = "What is the cgpa requirement to attend this drive?"
     query_emb = model.encode([query])[0].tolist()
     result = index.query(vector=query_emb, top_k=1, include_metadata=True)
 

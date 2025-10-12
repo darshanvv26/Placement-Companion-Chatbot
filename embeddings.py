@@ -16,7 +16,7 @@ def main():
     print(f"Total chunks: {len(chunks)}")
     print(f"Embedding dimension: {len(embeddings[0])}")
     # print("Sample chunk:", chunks[0])
-    print("Sample embedding vector:", embeddings[0][:10])
+    print("Sample embedding vector:", embeddings[0][:])
 
 
 if __name__ == "__main__":
