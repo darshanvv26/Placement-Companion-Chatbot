@@ -1,0 +1,289 @@
+{
+  "file_type": ".pptx",
+  "total_files": 4,
+  "total_chunks": 31,
+  "companies": {
+    "Marvell Technology_": {
+      "file_count": 1,
+      "chunk_count": 14,
+      "files": [
+        {
+          "filename": "Job description - Copy 1.pptx",
+          "role": "General",
+          "chunks": 14
+        }
+      ]
+    },
+    "Stryker_MTech_2026": {
+      "file_count": 3,
+      "chunk_count": 17,
+      "files": [
+        {
+          "filename": "Intern - Software (DRE).pptx",
+          "role": "General",
+          "chunks": 7
+        },
+        {
+          "filename": "Intern - Software.pptx",
+          "role": "General",
+          "chunks": 7
+        },
+        {
+          "filename": "SMB JD.pptx",
+          "role": "General",
+          "chunks": 3
+        }
+      ]
+    }
+  },
+  "chunks": [
+    {
+      "section": "Job Description",
+      "content": "https://youtu.be/hvu4MlGkrqw\nUniversity Recruitment, India\n\n//youtu.be/hvu4MlGkrqw\n\n\nAnalog Layout Intern\nWhy?\nBecause all chips require power-driven operations, and they are typically of analog nature.",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Job Description",
+      "content": "What?\nThis engineer designs the analog portion of a chip.\nJob Responsibilities:\nLearning the use of all the different IC layout development CAD and physical verification tools\nTraining on Mask/layout design using Cadence Virtuoso EXL using circuit design as input\nResponsible for layout development and delivery of Foundational IP and Analog layout for SOCs and Test chips",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Job Description",
+      "content": "Analog Circuit design Intern\nWhy?\nReal world signals are analog in nature and needs sensing and conversion (ADC/DAC) before being processed in Digital domain. Chip power supplies , clocks and temperature sensors are all analog circuits",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Job Description",
+      "content": "What?\nThis engineer designs the analog circuits and integrates it with other portions of the SoC.\nJob Responsibilities:\nDesign of analog circuits blocks ( Regulators, biasing circuits, op-amps , clock buffers, Delay locked loops, current DAC’s, equalizers etc) and high speed custom digital circuits( Serialzers and De-serializers) adhering to the required performance targets",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Job Description",
+      "content": "Engaging with layout team in optimizing the circuit performance and meeting the floor plan needs.\nContributing in top level integration ,functional and performance regression , EMIR and stress checks.\nBehavioral modeling of analog blocks and functional validation",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Job Description",
+      "content": "Physical Design Intern\nWhy?\nSo that we can manufacture chips of specific sizes and performance for the allocated space provided by the customer",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Job Description",
+      "content": "What?\nPhysical design is the process of turning a design into a geometric format that we can send to manufacturing.\nJob Responsibilities:\nUnderstand design specifications, data flow of a given implementation block.",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Job Description",
+      "content": "Implement designs through all aspects of implementation (floor planning, placement, clock insertion, routing, timing closure, and physical verification) using industry standard EDA tools.\nWrite scripts in Python, TCL, Perl, and Shell to aid implementation activities",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "As a member of this team, you may interact with different teams such as Soc.\n\nLiquid Security Intern\nWhy?\nWe’ll be solving some of the most interesting challenges while building a product unlike anything seen before.",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "What?\nWe partner with public cloud providers and make it easy for their customers to protect, secure, and encrypt their data simply and scalably.\nJob Responsibilities:\nDefinition and implementation of product improvements, analyzing and troubleshooting deployment, configuration and product issues, proposing short term workarounds and implementing product fixes.",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Functional and technical design of the software, developing and validating entire functional components and modules, collaboration with the team on integrating the product and its infrastructure, code reviews and improvement of the software development processes.",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Collaborate with Support, R&D and Technical marketing Engineers to diagnose and troubleshoot escalated customer issues and orchestrate development and testing of patches/hot-fixes.",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Machine Learning Intern\nWhy?\nInteract and work with Architecture/Hardware/Software teams to develop cutting edge ML Software/Firmware\n\n\nWhat?\nMachine Learning team under the Processor Business group\n\nJob Responsibilities:",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Job Responsibilities:\n\n Understanding the dataplane and ML framework\n C & C++ Coding Knowledge and scripting for the dataplane applications and ML compiler applications\n ARM Multicore based SOC architecture\n ARM AARCH64 Knowledge and programming\n Unit Testing",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Job description - Copy 1.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Intern - Software (DRE).pptx",
+      "content": "MTech Intern\nWho we want\nDetail-oriented process improvers. Critical thinkers who naturally see opportunities to develop and optimize work processes – finding ways to simplify, standardize and automate. \nSelf-directed imitators. People who take ownership of their work and need no prompting to drive productivity, change, and outcomes.",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software (DRE).pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Intern - Software (DRE).pptx",
+      "content": "Collaborative partners. People who build and leverage cross-functional relationships to bring together ideas, data and insights to drive continuous improvement in functions. \n Analytical problem solvers. People who go beyond just fixing to identify root causes, evaluate optimal solutions, and recommend comprehensive upgrades to prevent future issues.",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software (DRE).pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Intern - Software (DRE).pptx",
+      "content": "Dedicated achievers. People who thrive in a fast-paced environment and will stop at nothing to ensure a project is complete and meets regulations and expectations",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software (DRE).pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Intern - Software (DRE).pptx",
+      "content": "What you will do \nThe individual will work as an individual contributor who will be part of a team working on following :",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software (DRE).pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Intern - Software (DRE).pptx",
+      "content": "It requires the use of judgement in applying professional expertise and is expected to work independently with minimal supervision. \nJob requires an understanding and application of procedures and concepts of own discipline.",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software (DRE).pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Intern - Software (DRE).pptx",
+      "content": "Designs, develops, tests, debugs and implements operating systems components, software tools , advance software applications , cloud based application and utilities. Determines systems software design requirements. \nEnsures that system improvements are successfully implemented and monitored to increase efficiency. \nGenerates systems software engineering policies, standards and procedures.",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software (DRE).pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Strong knowledge in Data structures & algorithms\nAbility to write code in two or more general purpose programming language (e.g., C, C++, C#, Java, JavaScript, Python, etc.).\nGood understanding of  Object-oriented programming concepts.",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software (DRE).pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Intern - Software.pptx",
+      "content": "M.Tech Intern\nWho we want\nDetail-oriented process improvers. Critical thinkers who naturally see opportunities to develop and optimize work processes – finding ways to simplify, standardize and automate. \nSelf-directed imitators. People who take ownership of their work and need no prompting to drive productivity, change, and outcomes.",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Intern - Software.pptx",
+      "content": "Collaborative partners. People who build and leverage cross-functional relationships to bring together ideas, data and insights to drive continuous improvement in functions. \n Analytical problem solvers. People who go beyond just fixing to identify root causes, evaluate optimal solutions, and recommend comprehensive upgrades to prevent future issues.",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Intern - Software.pptx",
+      "content": "Dedicated achievers. People who thrive in a fast-paced environment and will stop at nothing to ensure a project is complete and meets regulations and expectations",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Intern - Software.pptx",
+      "content": "What you will do \nThe individual will work as an individual contributor who will be part of a team working on following :",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Intern - Software.pptx",
+      "content": "It requires the use of judgement in applying professional expertise and is expected to work independently with minimal supervision. \nJob requires an understanding and application of procedures and concepts of own discipline.",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Intern - Software.pptx",
+      "content": "Designs, develops, tests, debugs and implements operating systems components, software tools , advance software applications , cloud-based application and software utilities. Determines systems software design requirements and ensures that the system meets security and quality standards\nEnsures that system improvements are successfully implemented and monitored to increase efficiency.",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "Intern - Software.pptx",
+      "content": "Generates systems software engineering policies, standards and procedures.",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Intern - Software.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "SMB JD.pptx",
+      "content": "M.Tech Intern\nWho we want\nDetail-oriented process improvers: People who are critical thinkers who naturally see opportunities to develop and optimize work processes – finding ways to simplify, standardize, and automate. \nSelf-directed imitators: People who take ownership of their work and need no prompting to drive productivity, change, and outcomes.",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "SMB JD.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "SMB JD.pptx",
+      "content": "Collaborative partners: People who build and leverage cross-functional relationships to bring together ideas, data, and insights to drive continuous improvement in functions. \n Analytical problem solvers: People who go beyond just fixing to identify root causes, evaluate optimal solutions, and recommend comprehensive upgrades to prevent future issues.",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "SMB JD.pptx",
+      "file_type": ".pptx"
+    },
+    {
+      "section": "SMB JD.pptx",
+      "content": "Dedicated achievers: People who thrive in a fast-paced environment and will stop at nothing to ensure a project is complete and meets regulations and expectations,",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "SMB JD.pptx",
+      "file_type": ".pptx"
+    }
+  ]
+}

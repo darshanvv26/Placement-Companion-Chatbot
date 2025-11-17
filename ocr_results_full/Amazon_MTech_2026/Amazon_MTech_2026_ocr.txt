@@ -1,0 +1,37 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+Amazon_MTech_2026
+
+Amazon  
+Not Applied  
+
+PAN India  
+Internship  
+70T PM  
+Duration : 6 month(s)  
+
+Starts On  To be announced  
+
+Apply Before  18 Mar 2025  04:00 PM  
+
+Drive Description  
+Internship duration is from June to November 2025.  
+
+Download file  
+
+Round Details  
+Round 1  
+
+Profile & CTC  
+Business Analyst Intern  
+Stipend  
+₹ 70T PM
+==================================================
+image size:  (1832, 952)
+valid image tokens:  933
+output texts tokens (valid):  96
+compression ratio:  0.1
+==================================================
+===============save results:===============

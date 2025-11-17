@@ -1,0 +1,43 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# Philips_MTech_2026
+
+**Philips India Pvt Ltd**  
+**Not Eligible**  
+📍 Bangalore | Pune  
+📅 Internship  
+📅 55T PM  
+📅 Duration: 12 month(s)  
+
+**Starts On**  
+**To be announced**  
+
+**Apply Before**  
+**14 Feb 2025**  
+**10:00 AM**
+
+---
+
+## Drive Description
+
+**On Conversion**  
+**CTC:** INR 12,00,000 + INR 3,00,000 (Joining Bonus)  
+
+---
+
+## Round Details
+
+- **Round 1**  
+  **Profile & CTC**  
+  **Intern**  
+  **Stipend**  
+  **₹ 55T PM**
+==================================================
+image size:  (1845, 963)
+valid image tokens:  933
+output texts tokens (valid):  153
+compression ratio:  0.16
+==================================================
+===============save results:===============

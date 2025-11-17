@@ -1,0 +1,69 @@
+# ===========================
+# Core ML/AI Frameworks
+# ===========================
+torch>=2.0.0
+torchvision
+torchaudio
+transformers>=4.45,<5
+accelerate
+sentencepiece  # Required by some tokenizers
+
+# ===========================
+# Zero-Shot Classification
+# ===========================
+# DeBERTa-v3-large dependencies
+protobuf  # Required by DeBERTa tokenizer
+
+# ===========================
+# DeepSeek-OCR Dependencies
+# ===========================
+einops
+timm
+addict
+matplotlib
+
+# ===========================
+# Document Processing
+# ===========================
+pytesseract
+python-docx
+Pillow
+pdfplumber
+python-pptx
+PyMuPDF  # NEW - Required for fitz in chunking.py (PDF processing)
+
+# ===========================
+# Text Processing
+# ===========================
+langchain-text-splitters
+
+# ===========================
+# Vector Database & Embeddings
+# ===========================
+pinecone-client
+sentence-transformers
+
+# ===========================
+# Progress & Utilities
+# ===========================
+tqdm  # NEW - Required for progress bars in chunking.py
+
+# ===========================
+# Environment & Configuration
+# ===========================
+python-dotenv
+
+# ===========================
+# Data Science Essentials
+# ===========================
+scipy
+scikit-learn
+numpy
+pandas  # Useful for data analysis (optional but recommended)
+
+# ===========================
+# Additional Utilities
+# ===========================
+requests  # For API calls
+beautifulsoup4  # For web scraping (if needed later)
+lxml  # XML/HTML parser

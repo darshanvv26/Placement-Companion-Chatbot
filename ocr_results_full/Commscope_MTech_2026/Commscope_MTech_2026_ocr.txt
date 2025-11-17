@@ -1,0 +1,39 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+Commscope_MTech_2026
+
+Commscope  
+Eligible  
+
+Bangalore  
+Internship  
+40T PM  
+Duration : 11 month(s)  
+Starts On To be announced  
+
+Apply Before 22 Feb 2025 | 10:00 AM  
+
+Drive Description  
+How You'll Help Us Connect the World  
+
+As Ruckus Networks (CommScope) designs and builds connectivity for the world's most advanced networks, we're building something equally as important: careers for forward-thinking college students like you. Our New College Graduates / Internship Program.
+
+[Read More]
+
+Round Details  
+Round 1  
+
+Profile & CTC  
+
+Intern  
+Stipend  
+₹ 40T PM
+==================================================
+image size:  (1838, 961)
+valid image tokens:  933
+output texts tokens (valid):  146
+compression ratio:  0.16
+==================================================
+===============save results:===============

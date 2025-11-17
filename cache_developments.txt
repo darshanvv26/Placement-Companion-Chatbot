@@ -1,0 +1,313 @@
+query_helper.py: Cache retrieval results (expensive Pinecone queries + re-ranking)
+llm_reasoner.py: Cache LLM answers (expensive inference)
+Here's the implementation:
+
+Step 1: Create cache_manager.py
+import json
+import os
+import hashlib
+from typing import Any
+
+class CacheManager:
+    """Simple JSON-based cache for query results and LLM responses."""
+    
+    def __init__(self, path="cache_store.json"):
+        self.path = path
+        if os.path.exists(path):
+            with open(path, "r", encoding="utf-8") as f:
+                self.cache = json.load(f)
+        else:
+            self.cache = {}
+        print(f"💾 Cache loaded from {path} ({len(self.cache)} entries)")
+
+    def _hash_key(self, key: str) -> str:
+        """Create a hash for long keys to avoid filesystem issues."""
+        return hashlib.md5(key.encode()).hexdigest()
+
+    def get(self, key: str) -> Any | None:
+        """Retrieve cached value by key."""
+        hashed = self._hash_key(key)
+        return self.cache.get(hashed)
+
+    def set(self, key: str, value: Any):
+        """Store value in cache and persist to disk."""
+        hashed = self._hash_key(key)
+        self.cache[hashed] = value
+        with open(self.path, "w", encoding="utf-8") as f:
+            json.dump(self.cache, f, indent=2, ensure_ascii=False)
+
+    def clear(self):
+        """Clear all cache entries."""
+        self.cache = {}
+        with open(self.path, "w", encoding="utf-8") as f:
+            json.dump({}, f)
+        print("🧹 Cache cleared")
+
+    def stats(self):
+        """Print cache statistics."""
+        print(f"📊 Cache stats: {len(self.cache)} entries, size: {os.path.getsize(self.path) / 1024:.2f} KB")
+
+
+Step 2: Update query_helper.py to use cache
+import os
+import json
+from dotenv import load_dotenv
+from pinecone import Pinecone
+from sentence_transformers import SentenceTransformer, CrossEncoder
+from cache_manager import CacheManager  # NEW
+
+class QueryHelper:
+    """Helper for querying Pinecone with optional filters and full-content retrieval."""
+
+    def __init__(
+        self,
+        index_name: str | None = None,
+        model_name: str = "sentence-transformers/all-mpnet-base-v2",
+        content_path: str = "embeddings_store/chunks.json",
+        use_reranker: bool = True,
+        max_context_tokens: int = 3000,
+        use_cache: bool = True,  # NEW
+        cache_path: str = "query_cache.json"  # NEW
+    ):
+        load_dotenv()
+        api_key = os.getenv("PINECONE_API_KEY")
+        if not api_key:
+            raise RuntimeError("PINECONE_API_KEY not set")
+
+        self.index_name = index_name or os.getenv("PINECONE_INDEX_NAME", "placement-companion-v3")
+        self.pc = Pinecone(api_key=api_key)
+        self.index = self.pc.Index(self.index_name)
+        self.model = SentenceTransformer(model_name)
+
+        # Load full content once from saved embeddings artifacts
+        self.content_path = content_path
+        self.full_content = self._load_full_content_cache()
+        
+        # Extract unique company list for auto-detection
+        self.all_companies = sorted(set(c.get("company", "") for c in self.full_content.values() if c.get("company")))
+
+        # Optional re-ranker for better retrieval
+        self.use_reranker = use_reranker
+        self.reranker = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2') if use_reranker else None
+        if use_reranker:
+            print("✅ Loaded re-ranker: cross-encoder/ms-marco-MiniLM-L-6-v2")
+
+        # Context management
+        self.max_context_tokens = max_context_tokens
+
+        # NEW: Cache for query results
+        self.use_cache = use_cache
+        self.cache = CacheManager(cache_path) if use_cache else None
+
+    # ...existing _load_full_content_cache, detect_company, _estimate_tokens, _condense_chunks...
+
+    def hybrid_query(self, query_text: str, top_k: int = 10, 
+                     force_semantic: bool = False, use_cache: bool | None = None) -> tuple[str | None, list]:
+        """
+        🚀 Hybrid Flow with caching:
+        1. Check cache first
+        2. Detect company from query
+        3. If company detected → load all chunks for that company
+        4. Else → semantic search via Pinecone
+        5. Condense if context > max_context_tokens
+        6. Store in cache
+        
+        Returns: (detected_company, chunks_list)
+        """
+        use_cache = use_cache if use_cache is not None else self.use_cache
+
+        # NEW: Check cache
+        cache_key = f"hybrid:{query_text}:{top_k}:{force_semantic}"
+        if use_cache and self.cache:
+            cached = self.cache.get(cache_key)
+            if cached:
+                print("💾 Retrieved from cache")
+                return cached["company"], cached["chunks"]
+
+        company = self.detect_company(query_text) if not force_semantic else None
+
+        if company and not force_semantic:
+            print(f"🏢 Company detected: {company}")
+            print(f"📦 Loading ALL chunks for {company} (bypassing Pinecone)")
+            
+            # Load all chunks for this company from local cache
+            company_chunks = [
+                {
+                    "chunk_id": cid,
+                    "company": chunk.get("company"),
+                    "section": chunk.get("section", "Unknown"),
+                    "role": chunk.get("role", "General"),
+                    "filename": chunk.get("filename", "Unknown"),
+                    "file_type": chunk.get("file_type", "Unknown"),
+                    "content": chunk.get("content", ""),
+                    "score": 1.0
+                }
+                for cid, chunk in self.full_content.items()
+                if chunk.get("company") == company
+            ]
+            
+            print(f"✅ Found {len(company_chunks)} chunks for {company}")
+            condensed = self._condense_chunks(company_chunks, query_text)
+            
+            # NEW: Store in cache
+            if use_cache and self.cache:
+                self.cache.set(cache_key, {"company": company, "chunks": condensed})
+            
+            return company, condensed
+
+        else:
+            print("🔍 No company detected → Semantic search via Pinecone")
+            results = self.query(query_text, top_k=top_k, auto_detect_company=False)
+            
+            # NEW: Store in cache
+            if use_cache and self.cache:
+                self.cache.set(cache_key, {"company": None, "chunks": results})
+            
+            return None, results
+
+    # ...existing query, get_company_context, query_company, query_section methods...
+
+
+Step 3: Update llm_reasoner.py to use cache
+import os
+import torch
+from transformers import pipeline
+from cache_manager import CacheManager  # NEW
+
+def _resolve_model_name(model_name: str) -> str:
+    """Resolve 'gpt-oss' to a concrete HF model."""
+    if model_name == "gpt-oss":
+        return os.getenv("OSS_LLM_MODEL", "Qwen/Qwen2.5-7B-Instruct")
+    return model_name
+
+class LLMReasoner:
+    """Handles reasoning over retrieved context using an open-source LLM."""
+
+    def __init__(
+        self,
+        model_name: str = "gpt-oss",
+        device: str | None = None,
+        max_new_tokens: int = 512,
+        temperature: float = 0.2,
+        use_cache: bool = True,  # NEW
+        cache_path: str = "llm_cache.json"  # NEW
+    ):
+        resolved = _resolve_model_name(model_name)
+        if device is None:
+            device = "cuda" if torch.cuda.is_available() else "cpu"
+
+        print(f"🧠 Loading reasoning model: {resolved} (device={device})")
+        self.pipe = pipeline(
+            "text-generation",
+            model=resolved,
+            tokenizer=resolved,
+            device=0 if device == "cuda" else -1,
+            max_new_tokens=max_new_tokens,
+            temperature=temperature,
+            do_sample=False,
+            torch_dtype="auto",
+            trust_remote_code=True
+        )
+        self.max_new_tokens = max_new_tokens
+        self.temperature = temperature
+        
+        # NEW: Cache for LLM responses
+        self.use_cache = use_cache
+        self.cache = CacheManager(cache_path) if use_cache else None
+        
+        print("✅ LLM ready for reasoning.")
+
+    def answer_query(self, query_text: str, context: str, use_cache: bool | None = None) -> str:
+        """Generate an answer given context + query (RAG step) with caching."""
+        use_cache = use_cache if use_cache is not None else self.use_cache
+
+        # NEW: Check cache
+        cache_key = f"answer:{query_text}:{context[:200]}"  # Use partial context for key
+        if use_cache and self.cache:
+            cached = self.cache.get(cache_key)
+            if cached:
+                print("💾 Retrieved answer from cache")
+                return cached
+
+        prompt = f"""
+You are a helpful placement assistant bot.
+Answer the question based only on the context below. If the answer is not in the context, say you don't know.
+Be accurate, concise, and relevant.
+
+Context:
+{context}
+
+Question:
+{query_text}
+
+Answer:
+""".strip()
+
+        out = self.pipe(prompt)[0]["generated_text"]
+        answer = out.split("Answer:")[-1].strip()
+
+        # NEW: Store in cache
+        if use_cache and self.cache:
+            self.cache.set(cache_key, answer)
+
+        return answer
+
+    def answer_with_retrieval(self, helper, query_text: str, top_k: int = 5, use_cache: bool | None = None) -> dict:
+        """Full RAG step with caching."""
+        company, results = helper.hybrid_query(query_text, top_k=top_k, use_cache=use_cache)
+        context = "\n\n".join([r["content"] for r in results])
+        answer = self.answer_query(query_text, context, use_cache=use_cache)
+        return {
+            "company": company,
+            "context": context,
+            "answer": answer,
+            "chunks_used": results
+        }
+
+if __name__ == "__main__":
+    from query_helper import QueryHelper
+
+    helper = QueryHelper()
+    reasoner = LLMReasoner(model_name="gpt-oss")
+
+    q = input("💬 Enter your question: ")
+    result = reasoner.answer_with_retrieval(helper, q, top_k=5)
+
+    print(f"\n🏢 Detected company: {result['company'] or 'None'}")
+    print(f"\n📝 Answer:\n{result['answer']}\n")
+
+
+🧩 2. Embedding Similarity Cache (Smarter)
+
+You can cache semantically similar queries.
+
+Example:
+
+“Cutoff for Ericsson?”
+“What’s the minimum CGPA for Ericsson?”
+→ both can share the same answer.
+
+How:
+
+Compute embedding for new query
+
+Compare cosine similarity with existing cached query embeddings
+
+If similarity > 0.9 → return cached answer
+
+This makes caching fuzzy and intelligent, not just exact match.
+
+
+🧩 3. Persistent Caching (Redis or SQLite)
+
+For production-grade systems (e.g., web or chatbot apps):
+
+Use a local SQLite database (persistent and structured)
+
+Or a Redis cache if deployed on a server/cloud
+
+This ensures:
+
+Caches survive restarts
+
+Concurrent users can share it

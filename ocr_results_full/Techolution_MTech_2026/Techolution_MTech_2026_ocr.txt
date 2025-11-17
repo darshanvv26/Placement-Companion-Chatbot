@@ -1,0 +1,50 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# Techolution_MTech_2026
+
+## Techolution
+- Not Eligible
+
+### Core I (Spot)
+You were disabled from drive or portal when this drive was taken place  
+Drives criteria do not match your data before the last date & time to apply.
+
+### 30T PM
+### Duration : 12 month(s)
+
+**Starts On**  
+**To be announced**  
+**Apply Before**  
+**24 Apr 2025**  
+**10:00 AM**
+
+---
+
+## Drive Description
+**Download file**
+
+- **Working Hours**: 9 hours/day  
+- **PPO Opportunity**: Yes  
+- **CTC Post-Internship**: Based on performance, interns may be converted to full-time employees with a CTC range of ₹8–11 LPA  
+- **Start Date**: Immediate joiners  
+
+**Read Less**
+
+---
+
+## Round Details
+- **Round 1**
+
+### Profile & CTC
+- **Multiple Profiles**  
+  - Stipend  
+  - ₹30T PM
+==================================================
+image size:  (1825, 945)
+valid image tokens:  932
+output texts tokens (valid):  206
+compression ratio:  0.22
+==================================================
+===============save results:===============

@@ -1,0 +1,1510 @@
+{
+  "file_type": ".docx",
+  "total_files": 27,
+  "total_chunks": 163,
+  "companies": {
+    "Aditya Auto Products_MTech_2026": {
+      "file_count": 3,
+      "chunk_count": 14,
+      "files": [
+        {
+          "filename": "JD Data Analyst.docx",
+          "role": "General",
+          "chunks": 6
+        },
+        {
+          "filename": "JD Data science.docx",
+          "role": "General",
+          "chunks": 5
+        },
+        {
+          "filename": "Job Description AL & ML.docx",
+          "role": "General",
+          "chunks": 3
+        }
+      ]
+    },
+    "Aditya Birla_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "JD- Intern.docx",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Analog Devices": {
+      "file_count": 1,
+      "chunk_count": 4,
+      "files": [
+        {
+          "filename": "Manipal Internship FY25.docx",
+          "role": "General",
+          "chunks": 4
+        }
+      ]
+    },
+    "Emerson_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 4,
+      "files": [
+        {
+          "filename": "JD - Software Engineer Intern_2025.docx",
+          "role": "General",
+          "chunks": 4
+        }
+      ]
+    },
+    "Honeywell_MTech_2026_": {
+      "file_count": 4,
+      "chunk_count": 35,
+      "files": [
+        {
+          "filename": "Advanced Comm-Electronics-JD1.docx",
+          "role": "General",
+          "chunks": 16
+        },
+        {
+          "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+          "role": "General",
+          "chunks": 14
+        },
+        {
+          "filename": "JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+          "role": "General",
+          "chunks": 4
+        },
+        {
+          "filename": "Mechanical-VG Job description-JD8.docx",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Intel_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 2,
+      "files": [
+        {
+          "filename": "Intel_JD.docx",
+          "role": "Role - 3",
+          "chunks": 2
+        }
+      ]
+    },
+    "Novartis_MTech_2026": {
+      "file_count": 5,
+      "chunk_count": 40,
+      "files": [
+        {
+          "filename": "JD Intern - Data Science.docx",
+          "role": "General",
+          "chunks": 1
+        },
+        {
+          "filename": "JD Intern - US Analytics.docx",
+          "role": "General",
+          "chunks": 12
+        },
+        {
+          "filename": "JD Intern - US Field Insights and Analytics.docx",
+          "role": "General",
+          "chunks": 10
+        },
+        {
+          "filename": "JD Intern - US Primary Market Research.docx",
+          "role": "General",
+          "chunks": 9
+        },
+        {
+          "filename": "JD_Trainee Engineer Intern.docx",
+          "role": "General",
+          "chunks": 8
+        }
+      ]
+    },
+    "PowerSchool_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 11,
+      "files": [
+        {
+          "filename": "Support Intern - JD.docx",
+          "role": "General",
+          "chunks": 11
+        }
+      ]
+    },
+    "Sabic_MTech_2026_": {
+      "file_count": 5,
+      "chunk_count": 30,
+      "files": [
+        {
+          "filename": "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+          "role": "Role-2",
+          "chunks": 6
+        },
+        {
+          "filename": "NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+          "role": "Role-2",
+          "chunks": 5
+        },
+        {
+          "filename": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+          "role": "Role-2",
+          "chunks": 7
+        },
+        {
+          "filename": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+          "role": "Role-2",
+          "chunks": 6
+        },
+        {
+          "filename": "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+          "role": "Role-2",
+          "chunks": 6
+        }
+      ]
+    },
+    "Saviynt_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 5,
+      "files": [
+        {
+          "filename": "ES_Associate Consultatnt_Revised_RG.docx",
+          "role": "General",
+          "chunks": 5
+        }
+      ]
+    },
+    "Thales_MTech_2026_": {
+      "file_count": 1,
+      "chunk_count": 10,
+      "files": [
+        {
+          "filename": "Job Description - Embedded Intern.docx",
+          "role": "General",
+          "chunks": 10
+        }
+      ]
+    },
+    "Thomson Reuters_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 7,
+      "files": [
+        {
+          "filename": "JD Data & Analytics Internship.docx",
+          "role": "General",
+          "chunks": 7
+        }
+      ]
+    }
+  },
+  "chunks": [
+    {
+      "section": "Job Description",
+      "content": "Aditya Auto Products is a global Tier 1 automotive supplier, specializing in mechatronic systems, sheet metal assemblies, and precision plastic components. With a commitment to innovation and quality, we are leveraging Industry 4.0 technologies to enhance operational efficiency and maintain our competitive edge.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "JD Data Analyst.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Program Details",
+      "content": "The Industry 4.0 Internship Program is a 6-month opportunity to gain hands-on experience in transforming manufacturing processes through data-driven solutions. Interns will work with the Production, Industrial Engineering, and Manufacturing Engineering Teams to ensure seamless integration of production data and its visualization.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "JD Data Analyst.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "Ensure all 10 assembly lines are consistently providing data into a centralized server SQL database.\nCollaborate with teams to identify critical data points for production and quality tracking.\nDevelop and deploy interactive dashboards using Power BI to convert the data lake into live production insights.\nSet up automated workflows and alerts for real-time monitoring of production metrics.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "JD Data Analyst.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "Analyze data trends to recommend improvements in production and operational processes.\nDocument technical procedures and present solutions to stakeholders.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "JD Data Analyst.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Experience in live data integration from manufacturing or IoT systems.\nFamiliarity with DAX (Data Analysis Expressions) for advanced Power BI functionalities.\nUnderstanding of production workflows and key manufacturing metrics.\nKnowledge of scripting languages like Python for data processing.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "JD Data Analyst.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Benefits",
+      "content": "Hands-on experience with real-world Industry 4.0 projects in a manufacturing environment.\nMentorship from experienced professionals in data analytics and manufacturing.\nExposure to cutting-edge technologies and tools for digital transformation.\nNetworking opportunities and potential for a full-time role upon successful completion of the internship.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "JD Data Analyst.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Job Description",
+      "content": "Aditya Auto Products is a global Tier 1 automotive supplier at the forefront of innovation in mechatronic systems, sheet metal assemblies, and precision plastic components. We are committed to maintaining the highest standards of quality through data-driven insights and advanced analytics.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "JD Data science.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Program Details",
+      "content": "The Statistical Quality Data Scientist Internship is a 6-month program designed for exceptional talent eager to apply advanced statistical and data science techniques to real-world quality challenges. Interns will work on analyzing warranty returns data to drive actionable insights and predictive models for improving customer satisfaction.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "JD Data science.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "Analyze raw warranty returns data from customer-provided Excel files, transforming it into a standardized, analyzable format.\nIncorporate engineering team insights into data models to enhance the depth and accuracy of analyses.\nDesign and develop automated dashboards and graphs using Power BI or similar tools to visualize quality trends for each customer (six dashboards in total).",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "JD Data science.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "Apply Weibull Analysis to develop predictive algorithms for forecasting future warranty trends based on historical data.\nCollaborate with cross-functional teams to understand quality issues and recommend data-driven solutions.\nPresent findings and dashboards to stakeholders, ensuring alignment with quality improvement goals.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "JD Data science.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Ability to synthesize data insights into actionable recommendations.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "JD Data science.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Job Description",
+      "content": "Aditya Auto Products is a global Tier 1 automotive supplier delivering innovative mechatronic solutions for the automotive industry. We specialize in high-performance motors and actuators for various applications, continuously advancing our capabilities through cutting-edge technology.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "Job Description AL & ML.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Program Details",
+      "content": "The AI/ML Acoustic Diagnostics Internship is an elite 6-month program aimed at solving real-world challenges using artificial intelligence and machine learning. Interns will work on developing an AI system capable of analyzing and classifying motor audio signals, ensuring superior quality and customer satisfaction.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "Job Description AL & ML.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Knowledge of digital signal processing (DSP) and acoustic diagnostics.\nFamiliarity with edge computing and deploying AI models in real-time systems.\nHands-on experience in data visualization tools and model explainability.\nUnderstanding of automotive motor systems and components.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "Job Description AL & ML.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD- Intern.docx",
+      "content": "** Selected candidates will be allocated to one of these roles according to their fitment and business needs **",
+      "company": "Aditya Birla_MTech_2026",
+      "role": "General",
+      "filename": "JD- Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Manipal Internship FY25.docx",
+      "content": "Data Intern \nData Analyst/Data Scientist Intern",
+      "company": "Analog Devices",
+      "role": "General",
+      "filename": "Manipal Internship FY25.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Manipal Internship FY25.docx",
+      "content": "Analog Devices, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world",
+      "company": "Analog Devices",
+      "role": "General",
+      "filename": "Manipal Internship FY25.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Manipal Internship FY25.docx",
+      "content": ". With revenue of more than $12 billion in FY22 and approximately 25,000 people globally working alongside 125,000 global customers, ADI ensures today’s innovators stay Ahead of What’s Possible.",
+      "company": "Analog Devices",
+      "role": "General",
+      "filename": "Manipal Internship FY25.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Manipal Internship FY25.docx",
+      "content": "Location: Bangalore, India\nOverview:",
+      "company": "Analog Devices",
+      "role": "General",
+      "filename": "Manipal Internship FY25.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD - Software Engineer Intern_2025.docx",
+      "content": "Software Engineer Intern\nLocation: Bengaluru \nMode: Onsite Internship \nDuration: July 2025 to Jun 2025 extendable to another 6 months based on business needs & Intern performance",
+      "company": "Emerson_MTech_2026",
+      "role": "General",
+      "filename": "JD - Software Engineer Intern_2025.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "POSITION OVERVIEW",
+      "company": "Emerson_MTech_2026",
+      "role": "General",
+      "filename": "JD - Software Engineer Intern_2025.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "Emerson (NI is now part of Emerson) is seeking Software Engineer Interns to work on design and development of test frameworks, algorithms, platforms and software products developed by Emerson",
+      "company": "Emerson_MTech_2026",
+      "role": "General",
+      "filename": "JD - Software Engineer Intern_2025.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": ". The primary responsibilities in this position include working with development teams to define, document, design, deploy code & infrastructure components that help release NI products on time and with high quality.",
+      "company": "Emerson_MTech_2026",
+      "role": "General",
+      "filename": "JD - Software Engineer Intern_2025.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Advanced Comm-Electronics-JD1.docx",
+      "content": "Mtech Intern - Weather Radar",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Advanced Comm-Electronics-JD1.docx",
+      "content": "As an Mtech Intern - Weather Radar here at Honeywell, you will have the opportunity to work on cutting-edge weather radar technologies and contribute to the development of innovative solutions. This internship will provide you with hands-on experience in radar signal processing, data analysis, algorithm development, and embedded software",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Advanced Comm-Electronics-JD1.docx",
+      "content": ". You will work closely with our team of experts to gain valuable insights into the field of weather radar and contribute to the advancement of our products.",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Advanced Comm-Electronics-JD1.docx",
+      "content": "You will report directly to our Weather Radar Team Lead and work out of our Hyderabad location on a hybrid work schedule.",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Advanced Comm-Electronics-JD1.docx",
+      "content": "In this role, you will have the opportunity to:\n- Gain practical experience in weather radar technology and its applications\n- Work on real-world projects and contribute to the development of radar algorithms and embedded software\n- Collaborate with cross-functional teams to analyze radar data and provide insights",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "•   Excellent communication and teamwork abilities\n\n\nABOUT HONEYWELL",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Honeywell International Inc. (Nasdaq: HON) invents and commercializes technologies that address some of the world’s most critical challenges around energy, safety, security, air travel, productivity, and global urbanization",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": ". We are a leading software-industrial company committed to introducing state-of-the-art technology solutions to improve efficiency, productivity, sustainability, and safety in high-growth businesses in broad-based, attractive industrial end markets. Our products and solutions enable a safer, more comfortable, and more productive world, enhancing the quality of life of people around the globe.",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": ".\n\n\nTHE BUSINESS UNIT",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Honeywell's Communication, Navigation, and Surveillance (CNS) business unit is a leading provider of advanced avionics systems and solutions for the aerospace industry. Our products and services enable safer and more efficient air travel, enhancing the overall aviation experience for passengers and operators",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": ". With a focus on innovation and customer satisfaction, we are dedicated to delivering cutting-edge technologies that shape the future of aviation.  our",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "website\n.",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, religion, or veteran status.  \n\n.",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "•   Assist in the development and testing of radar algorithms and embedded software for weather applications\n•   Collaborate with the team to troubleshoot and resolve technical issues related to embedded software\n•   Analyze radar data and provide insights for improving radar performance\n•   Document and present research findings and project updates\n\n\nYOU MUST HAVE",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "YOU MUST HAVE\n\n•   Pursuing or recently completed an Mtech degree in Electrical Engineering, Electronics, or a related field\n•   Strong knowledge of radar signal processing and data analysis\n•   Proficiency in programming languages such as MATLAB, Python, C, and C++\n•   Experience or knowledge of embedded software development",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "WE VALUE\n  \n•   Familiarity with weather radar systems and meteorological concepts\n•   Experience with radar hardware and software tools",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Advanced Comm-Electronics-JD1.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "content": "Intern Masters Software Engineer –",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "content": "As an Intern Masters Software Engineer at Honeywell, you will have the opportunity to acquire practical experience in the design and development of embedded software using C/C++. Additionally, you would also potentially develop AI/ML tools utilizing scripting languages such as Python",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "content": ". You will work closely with our team of experienced engineers to contribute to the development of cutting-edge embedded systems and/or tools. This internship will provide you with valuable industry experience and the opportunity to work on innovative projects in the aerospace industry.",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "content": "You will report directly to Control Systems team lead and work out of our Bangalore, India location.",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "content": "In this role, you will have the opportunity to make a significant impact by contributing to the development of embedded software and/or tools that power Honeywell's Aerospace Environmental Control System products. You will work on projects that involve designing, coding, testing, and debugging embedded software and AI/ML tools",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "content": ". You will also collaborate with cross-functional teams to define system requirements and ensure the successful completion of software projects.",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "•   Collaborate with experienced engineers to design and develop embedded software solutions and AI/ML based tools\n•   Contribute to the testing and debugging of software\n•   Work with cross-functional teams to define software requirements\n•   Ensure the timely completion of software projects\n\n\nIn this role, you will have the opportunity to:",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "•   Passion for innovation and continuous learning\n\n\nABOUT HONEYWELL",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Honeywell International Inc. (Nasdaq: HON) invents and commercializes technologies that address some of the world’s most critical challenges around energy, safety, security, air travel, productivity, and global urbanization",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": ". We are a leading software-industrial company committed to introducing state of the art technology solutions to improve efficiency, productivity, sustainability, and safety in high growth businesses in broad-based, attractive industrial end markets. Our products and solutions enable a safer, more comfortable, and more productive world, enhancing the quality of life of people around the globe.",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "THE BUSINESS UNIT",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Honeywell Control Systems (CS) business unit provides a wide range of products and value-adding services to Honeywell Aerospace customers, including aircraft manufacturers and operators, and agencies of the U.S. government. The business develops and manufactures air and thermal systems, mechanical components, and wheels and braking systems",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": ". Every 5 seconds, an aircraft lands with Honeywell Control Systems products.",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, religion, or veteran status.",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+      "content": "JD- Intern Masters Electronics Systems Design (Analog & Digital)",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+      "content": "Required to perform Analog & Digital circuit design, Electronic Communication, Sensors Interfacing, analysis, simulation, testing, and HW product development & support activities as a member of Electrical team working on Aerospace projects mainly in the field of Controllers hardware, Power Supplies, LED Driver Controllers, Environmental Control Systems, Actuation Systems and Motor Controllers",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+      "content": ". Additional responsibilities may include task planning, resolving technical problems with the customer.",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+      "content": "Masters in Electronics System Design (Analog & Digital Electronics) from reputed institutes.",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Mechanical-VG Job description-JD8.docx",
+      "content": "Machine design\nThermal Engineering\nMaterials and Systems Engineering Design",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Mechanical-VG Job description-JD8.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Intel_JD.docx",
+      "content": "We are pleased to announce two exciting internship positions available at Intel and would like to extend this opportunity to your esteemed institution.",
+      "company": "Intel_MTech_2026",
+      "role": "Role - 3",
+      "filename": "Intel_JD.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Job Description",
+      "content": "Tenure of Internship: Minimum 6 months\nStudent must work exclusively for Intel and cannot have other freelance/startup/other commitments.\nNote: We are looking for 2026 passing candidate and should be available for a long duration internship.\nNote : Phase 1 and 2 would be part of Internship program including the project",
+      "company": "Intel_MTech_2026",
+      "role": "Role - 3",
+      "filename": "Intel_JD.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD Intern - Data Science.docx",
+      "content": "Job Title: Data Science Intern - Advanced Analytics\nJob Summary:",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - Data Science.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD Intern - US Analytics.docx",
+      "content": "Opportunity to work with World’s Leading Innovative Pharma Company\nLocation – Novartis Corporate Centre, Hyderabad for Novartis US\nAbout the team:",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD Intern - US Analytics.docx",
+      "content": "About the team:\nNovartis’ team of specialists in US, Insights & Decision Sciences are on a transformation journey, leveraging Data and Advanced Analytics to generate actionable insights for Novartis medicines impacting more than 200 million patients in US. The team is poised to enable easier, faster and reliable decisions for US Novartis.\nJob Title: Advanced Analytics Intern",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD Intern - US Analytics.docx",
+      "content": "Job Title: Advanced Analytics Intern\nIntern role and responsibilities:",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD Intern - US Analytics.docx",
+      "content": "This internship role involves collecting, organizing, and interpreting data using statistical tools, programming languages, and visualization techniques. Responsibilities will include data cleaning and preparation, identifying market trends, improving business strategies, and developing easy-to-interpret reports",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD Intern - US Analytics.docx",
+      "content": ". This role plays a crucial role by transforming raw data into actionable insights, helping US Novartis make informed decisions and drive growth.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD Intern - US Analytics.docx",
+      "content": "Ideal Candidate Profile:\nEducation: Masters/ bachelor’s in technology/ life-sciences/ management",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Communication: Ability to present findings and collaborate with team members effectively\nCritical Thinking: Strong analytical and problem-solving to interpret data and make informed decisions\nPresentation: Effective story boarding of findings to US Colleagues\nValues and Behaviors:\nAbility to thrive in ambiguous, fast-paced corporate environments and adapt to evolving business requirements.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Ability to manage own workload and adhere to deadlines under supervision.\nDemonstrates accountability and initiative\nApproaches tasks with mutual respect, integrity, and embraces diversity, collaboration and transparency\nWhy apply? \nYou can find everything you need to know about our benefits and rewards in the Novartis Life Handbook. https://www.novartis.com/careers/benefits-rewards",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Why Novartis?",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Our purpose is to reimagine medicine to improve and extend people’s lives and our vision is to become the most valued and trusted medicines company in the world. How can we achieve this? With our people. It is our associates that drive us each day to reach our ambitions. Be a part of this mission and join us! Learn more here: https://www.novartis.com/about/strategy/people-and-culture",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Commitment to Diversity and Inclusion: Novartis is committed to building an outstanding, inclusive work environment and diverse teams' representative of the patients and communities we serve.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Join our Novartis Network: If this role is not suitable to your experience or career goals but you wish to stay connected to hear more about Novartis and our career opportunities, join the Novartis Network here: https://talentnetwork.novartis.com/network",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD Intern - US Field Insights and Analytics.docx",
+      "content": "Opportunity to work with World’s Leading Innovative Pharma Company\nLocation – Novartis Corporate Centre, Hyderabad for Novartis US\nAbout the team:",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Field Insights and Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD Intern - US Field Insights and Analytics.docx",
+      "content": "About the team:\nNovartis’ team of specialists in US, Insights & Decision Sciences are on a transformation journey, leveraging Data and Advanced Analytics to generate actionable insights for Novartis medicines impacting more than 200 million patients in US. The team is poised to enable easier, faster and reliable decisions for US Novartis.\nJob Title: Field Insights and Analytics Intern",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Field Insights and Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD Intern - US Field Insights and Analytics.docx",
+      "content": "Job Title: Field Insights and Analytics Intern\nIntern role and responsibilities:\nAs an intern on Novartis' US Decision Science Team, you get an opportunity to work with one of the world's leading innovative pharmaceutical firms. This role is your chance to learn from experienced Novartis leaders and play a role in delivering insights and analytics for pharmaceutical products.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Field Insights and Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Skilled in using tools such as Excel, SQL to analyze data\nExperience with statistical techniques and data modelling preferred \nFamiliarity in storyboarding and adept at crafting compelling slide presentations\nBasic understanding of the US Pharma market and product commercialization is advantageous\nValues and Behaviors:",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Field Insights and Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Values and Behaviors:\nAbility to thrive in ambiguous, fast-paced corporate environments and adapt to evolving business requirements.\nAbility to manage own workload and adhere to deadlines under supervision.\nDemonstrates accountability and initiative\nApproaches tasks with mutual respect, integrity, and embraces diversity, collaboration and transparency\nWhy Apply?",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Field Insights and Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "This is an exhilarating opportunity for interns interested in consulting, strategy, and analytics fields to understand how innovative pharma companies build and execute strategies effectively leveraging advanced data analytics. If you are highly motivated, a critical thinker, problem-solver, and have a basic understanding of analytical tools, this role could be the steppingstone for your career.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Field Insights and Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Why Novartis?",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Field Insights and Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Our purpose is to reimagine medicine to improve and extend people’s lives and our vision is to become the most valued and trusted medicines company in the world. How can we achieve this? With our people. It is our associates that drive us each day to reach our ambitions. Be a part of this mission and join us! Learn more here: https://www.novartis.com/about/strategy/people-and-culture",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Field Insights and Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Commitment to Diversity and Inclusion: Novartis is committed to building an outstanding, inclusive work environment and diverse teams' representative of the patients and communities we serve.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Field Insights and Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Join our Novartis Network: If this role is not suitable to your experience or career goals but you wish to stay connected to hear more about Novartis and our career opportunities, join the Novartis Network here: https://talentnetwork.novartis.com/network",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Field Insights and Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD Intern - US Primary Market Research.docx",
+      "content": "Opportunity to work with World’s Leading Innovative Pharma Company\nLocation – Novartis Corporate Centre, Hyderabad for Novartis US\nAbout the team:",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Primary Market Research.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD Intern - US Primary Market Research.docx",
+      "content": "About the team:\nNovartis’ team of specialists in US, Insights & Decision Sciences are on a transformation journey, leveraging Data and Advanced Analytics to generate actionable insights for Novartis medicines impacting more than 200 million patients in US. The team is poised to enable easier, faster and reliable decisions for US Novartis.\nJob Title: Primary Market Research Intern \nIntern role:",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Primary Market Research.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Previous internship or coursework in market research or related fields.\nFamiliarity with statistical analysis software (e.g., SPSS, Python) is a plus.\nFamiliarity with basics of Statistics or Data Science\nValues and Behaviours:\nAbility to thrive in ambiguous, fast-paced corporate environments and adapt to evolving business requirements.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Primary Market Research.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Ability to manage own workload and adhere to deadlines under supervision.\nDemonstrates accountability and initiative\nApproaches tasks with mutual respect, integrity, and embraces diversity, collaboration and transparency\nWhy apply?:\nOpportunity to participate in a hands-on learning environment in a real-world, fast-paced industry setting",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Primary Market Research.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Gain expertise in Market Research techniques applicable at various stages of the product lifecycle and patient journey\nLearn how to implement aspects of behavioural science in survey designing\nBuild your professional network by working with industry experts and professionals.\nCredit for your university degree (where applicable)\nPotential job offer at the end of the internship based on performance",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Primary Market Research.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Why Novartis?",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Primary Market Research.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Our purpose is to reimagine medicine to improve and extend people’s lives and our vision is to become the most valued and trusted medicines company in the world. How can we achieve this? With our people. It is our associates that drive us each day to reach our ambitions. Be a part of this mission and join us! Learn more here: https://www.novartis.com/about/strategy/people-and-culture",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Primary Market Research.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Commitment to Diversity and Inclusion: Novartis is committed to building an outstanding, inclusive work environment and diverse teams' representative of the patients and communities we serve.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Primary Market Research.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Join our Novartis Network: If this role is not suitable to your experience or career goals but you wish to stay connected to hear more about Novartis and our career opportunities, join the Novartis Network here: https://talentnetwork.novartis.com/network",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD Intern - US Primary Market Research.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD_Trainee Engineer Intern.docx",
+      "content": "Participate as a Trainee Engineer in NOCC Engineering team at Novartis Hyderabad.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD_Trainee Engineer Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD_Trainee Engineer Intern.docx",
+      "content": "Responsible for the operational support to business functions in managing contractors and external services as well represent an interface between internal community and external partners. To be acted as a single point of contact for all in accordance with legislation, internal regulations, good practices and business objectives via NOCC Engineering project team.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD_Trainee Engineer Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD_Trainee Engineer Intern.docx",
+      "content": "In depth knowledge of Engineering subjects, ability to use systems and tools (e.g., MS office, Excel, etc.) for documentation and reporting. \nParticipate in the review meetings with users, cross functional team and external vendors. Also contribute to review process improvements and provide the innovative solutions to process issues.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD_Trainee Engineer Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD_Trainee Engineer Intern.docx",
+      "content": "Contribute in the preparation of project assignments, timely compilation of tender documents, technical bid analysis, preparation of technical solutions within the legal framework, internal quality and HSE requirements. Perform other tasks as assigned by the supervisor, and tasks based on a specific appointment.\nCreating purchase orders and ordering equipment in SAP/ESHOP.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD_Trainee Engineer Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD_Trainee Engineer Intern.docx",
+      "content": "Care and maintenance of electronic databases (SharePoint).\nResponsibility for ensuring the consistency and quality of procedures and documentation. SPOC to the external service provider regarding operational processes related to external employees (announcements of new employees, assuming new roles, replacements, etc.).",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD_Trainee Engineer Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD_Trainee Engineer Intern.docx",
+      "content": "Providing support to the Training & Learning organization in defining the training that will help the external associates to obtain their qualifications.\nManagement and review of training roles for all external colleagues in the field of work and regular monitoring of the education of external colleagues and ensuring the consistency of training.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD_Trainee Engineer Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD_Trainee Engineer Intern.docx",
+      "content": "Ensuring that updated production documents are sent to relevant external colleagues for the purpose of education (reading and understanding) and transferring knowledge to colleagues and, if necessary, conducting training (OJT) for relevant colleagues. Support for ensuring the implementation of external services according to defined KPIs.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD_Trainee Engineer Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD_Trainee Engineer Intern.docx",
+      "content": "Collaborate with internal users and relevant line functions to bring the common understanding on the scope of the work with an emphasis on GMP, Safety and cost optimization. Work in conjunction with the relevant line functions to complete the project deliverables in time and in full.\nConsistency and quality of procedures and documentation.\nPO completion on time, no critical observations.",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "JD_Trainee Engineer Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Support Intern - JD.docx",
+      "content": "Job Title: Technical Support Intern\nLocation: Bangalore\nJob Type: Internship (Full-time)\nDuration: 10 months\nWorking Model: Hybrid\nReports To: Technical Support Manager\nOverview",
+      "company": "PowerSchool_MTech_2026",
+      "role": "General",
+      "filename": "Support Intern - JD.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Support Intern - JD.docx",
+      "content": "This position, under the general direction of both the supervisor and manager, provides technical support for our award-winning K- 12 software systems. This position provides world-class solutions-oriented technical support with a strong focus on customer service that is designed to maximize customer satisfaction",
+      "company": "PowerSchool_MTech_2026",
+      "role": "General",
+      "filename": "Support Intern - JD.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Support Intern - JD.docx",
+      "content": ". This position requires the employee to become proficient with all aspects of the application software functionality in order to accurately analyse, troubleshoot, diagnose and resolve software or system-related issues. This position will interact with customers via telephone and written internet-based communication.",
+      "company": "PowerSchool_MTech_2026",
+      "role": "General",
+      "filename": "Support Intern - JD.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Support Intern - JD.docx",
+      "content": "Responsibilities:\nResponds promptly to incoming technical support requests via phone, email, and chat, addressing hardware, software, networking, and system-related issues.\nTroubleshoots and resolves end-user problems by identifying root causes, researching solutions, and providing thorough follow-up; escalates complex issues to engineering when necessary.",
+      "company": "PowerSchool_MTech_2026",
+      "role": "General",
+      "filename": "Support Intern - JD.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Support Intern - JD.docx",
+      "content": "Collaborates closely with engineering teams to support escalated issues, providing technical context and ongoing updates to ensure resolution.\nCollaborates with developers to communicate software defects and recommend usability or functional improvements.\nResearch customer data issues, perform multiple queries, and escalate case if needed\nExpanded Scope of Work:",
+      "company": "PowerSchool_MTech_2026",
+      "role": "General",
+      "filename": "Support Intern - JD.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Support Intern - JD.docx",
+      "content": "Expanded Scope of Work:\nAssist in the design, development, testing, and maintenance of web/mobile applications.\nWrite clean, maintainable code under the supervision of senior developers. Debug and fix minor issues and bugs in existing applications.",
+      "company": "PowerSchool_MTech_2026",
+      "role": "General",
+      "filename": "Support Intern - JD.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Support Intern - JD.docx",
+      "content": "Participate in code reviews and follow established coding standards. Document features, processes, or APIs to support future development and knowledge sharing. \nLogs and manages support tickets in a problem management system, maintaining accurate documentation for issue tracking and knowledge sharing.",
+      "company": "PowerSchool_MTech_2026",
+      "role": "General",
+      "filename": "Support Intern - JD.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Support Intern - JD.docx",
+      "content": "Participates in the incident management process, ensuring timely response, coordination, and communication for service-impacting issues.\nDesigns and implements lightweight automation tools to streamline repetitive support tasks and improve team efficiency.",
+      "company": "PowerSchool_MTech_2026",
+      "role": "General",
+      "filename": "Support Intern - JD.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Support Intern - JD.docx",
+      "content": "Web Application Development (Frontend & Backend): Help build and maintain web applications, working on both the user interface (what users see) and the backend (how the app works behind the scenes, like handling data and user requests).",
+      "company": "PowerSchool_MTech_2026",
+      "role": "General",
+      "filename": "Support Intern - JD.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Support Intern - JD.docx",
+      "content": "AI Chatbot Tool Development: Support the development of chatbots that use AI to answer questions, guide users, or perform tasks automatically, improving the user experience on websites or apps.\nRequirements:\nProficiency in Microsoft Office Suite\nExcellent attention to detail and time management",
+      "company": "PowerSchool_MTech_2026",
+      "role": "General",
+      "filename": "Support Intern - JD.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Exceptional customer service and conflict resolution abilities\nCapacity to manage a high-volume workload and adapt to shifting priorities and interruptions",
+      "company": "PowerSchool_MTech_2026",
+      "role": "General",
+      "filename": "Support Intern - JD.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+      "content": "NOVA 2025 - Applications\nEmpirical procedure for predictive modeling of fatigue failure for filled resins at application level\nMention the SBU/Department/Function name.\nSHPP/GAPT\nMention your preferred academic background of Study\nMaster’s in mechanical engineering or Polymer Science\nSelect Work Location\nBengaluru\nGurugram\nVadodara\nMumbai\nPlease outline the project Scope in detail\nObjectives:",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+      "content": "Objectives:\n•\tSimulating fatigue failure in polymers is an ongoing area of research.\n•\tWhile failure prediction at material level is in advanced stage of understanding, life prediction at application level is a relatively unexplored area.\n•\tApplication-level life prediction has been studied for an unfilled grade in an earlier intern project.",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+      "content": "•\tThis project will attempt to build empirical relationships for fatigue failure for filled grades, specifically for glass filled polyetherimide.\nWork Scope:\n•\tStudy, summarize and present current state-of-art in fatigue failure prediction for filled polymers.",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+      "content": "•\tFinalize the most suitable predictive method, tool, or procedure to fill the gap in life prediction at application level for filled polymers.\n•\tConduct fatigue experiments to generate data for empirical modeling.\n•\tPredictions using the improved tool/method application level.\n•\tValidate at application level with physical experimentation.\n•\tWrite a procedure document.",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+      "content": "•\tWrite a procedure document.\nPlease select the type of internship\nManagement interns - 2 Months\nEngineering interns - 6 to 10 Months\nCS intern - 12 to 15 Months\nCA interns - 12 to 15 Months\nOther technical interns\nNo of Interns required\n1\nAssigned project lead/mentor for the intern\nSubhransu Mohapatra\nPlease mention any other added Skill sets required for the project",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+      "content": "•\tSpecialization in FEA and Structural Design with exposure to polymers\nCost Centre owner approval received\nYES\nNO\nAdditional comments (if any) that may be useful",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+      "content": "NOVA 2025 - Applications\nMoisture Absorption Study of Polymer Materials\nMention the SBU/Department/Function name.\nSHPP/GAPT\nMention your preferred academic background of Study\nMaster’s in Mechanical engineering / Applied mechanics / Material science / Polymer science\nSelect Work Location\nBengaluru\nGurugram\nVadodara\nMumbai\nPlease outline the project Scope in detail\nObjectives:",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+      "content": "Objectives:\n•\tUnderstand the basic principle of moisture absorption in polymers\n•\tUnderstand the effect of moisture on polymer properties, physical, mechanical and long term\n•\tDevelop a methodology to predict polymer performance after moisture absorption\nWork Scope:\n•\tConduct lab experiments to understand how the polymers absorb moisture, what happens when one side of the polymer is painted",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+      "content": "•\tDevelop a methodology to simulate this phenomenon using predictive tools.\n•\tEvaluate the change in mechanical properties due to moisture absorption\n•\tDevelop a methodology to simulate the change in mechanical properties using predictive tools.\nPlease select the type of internship\nManagement interns - 2 Months\nEngineering interns - 6 to 10 Months\nCS intern - 12 to 15 Months",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+      "content": "CS intern - 12 to 15 Months\nCA interns - 12 to 15 Months\nOther technical interns\nNo of Interns required\n1\nAssigned project lead/mentor for the intern\nVasudev Nilajkar\nPlease mention any other added Skill sets required for the project\n•\tDomain knowledge in Mechanics of materials\n•\tEnthusiasm to do laboratory experiments",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "•\tTeam player, ability to work with a cross-functional team environment\nCost Centre owner approval received\nYES\nNO\nAdditional comments (if any) that may be useful",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "content": "NOVA 2025 - Applications\nPerformance Prediction of Optical Lenses & Waveguides\nMention the SBU/Department/Function name.\nSHPP/GAPT\nMention your preferred academic background of Study\nMaster’s in Photonics/Physics\nSelect Work Location\nBengaluru\nGurugram\nVadodara\nMumbai\nPlease outline the project Scope in detail\nObjectives:",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "content": "Objectives:\n•\tUnderstand the configurations and trends of MPO & CPO (on-board optics) and diffractive lenses.\n•\tDevelop & validate analytical and simulation methods to predict the performance of thermoplastic lenses in various optical communication elements/configurations.",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "content": "•\tThe properties of the thermoplastic materials (birefringence) are also a function of the processing conditions and these also need to be understood, characterized and included in the modeling.\nWork Scope:\n•\tUnderstand and clearly explain the physics of the light transmission through thermoplastic materials\n•\tPerform literature search, benchmarking and baseline studies/analysis.",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "content": "•\tLearn the predictive tools required for the project\n•\tUnderstand the effect of various thermoplastic material properties (and their change due to processing) on optical lens performance",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "content": "•\tDevelop the predictive models for specific example applications (e.g., CPO/MPO, diffractive lenses, etc) and arrive at the sensitivity of the different changes in design and  material properties on the final system performance\n•\tWork with cross-pole team members to validate the simulation workflows.\n•\tDocumentation and reporting\nPlease select the type of internship\nManagement interns - 2 Months",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "content": "Management interns - 2 Months\nEngineering interns - 6 to 10 Months\nCS intern - 12 to 15 Months\nCA interns - 12 to 15 Months\nOther technical interns\nNo of Interns required\n1\nAssigned project lead/mentor for the intern\nVamsy Godthi\nPlease mention any other added Skill sets required for the project\n•\tStrong fundamentals of Optics in communication",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "content": "•\tStrong fundamentals of Optics in communication\n•\tAnalytical and numerical methods for predicting optical performance of lenses\nCost Centre owner approval received\nYES\nNO\nAdditional comments (if any) that may be useful",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+      "content": "NOVA 2025 - Applications\nSurface feature sensitivity in RF application\nMention the SBU/Department/Function name.\nSHPP/GAPT\nMention your preferred academic background of Study.\nMasters in Electronics/ Electrical/Communications Engineering Communication Engineering\nSelect Work Location\nBengaluru\nGurugram\nVadodara\nMumbai\nPlease outline the project Scope in detail\nObjectives:",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+      "content": "Objectives:\nUnderstand the behavior of EM waves, on interaction with periodic structures (e.g.: surface roughness, pyramid structure etc.) of different length scale. \nThe behavior of the EM waves on different surfaces can change with varying frequencies. The physics governing these behavior needs to be understood, characterized, and implemented in the modelling.",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+      "content": "Develop & validate analytical and simulation methods to predict the system level performance with these features for specified application.\nWork Scope:\n•\tThorough research to understand the physics of wave interaction with different surfaces features.\n•\tPerform literature search, benchmarking, and baseline studies/analysis.\n•\tLearn the predictive tools required for the project.",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+      "content": "•\tDevelop the predictive models to understand and evaluate the effect of these surface features for specified applications (Eg: ADAS Radome/Absorber, Antennas etc.)\n•\tWork with team members to prototype and test the design concept.\n•\tValidate the CAE model with the test results.\n•\tDocumentation and reporting\nPlease select the type of internship\nManagement interns - 2 Months",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+      "content": "Management interns - 2 Months\nEngineering interns - 6 to 10 Months\nCS intern - 12 to 15 Months\nCA interns - 12 to 15 Months\nOther technical interns\nNo of Interns required\n1\nAssigned project lead/mentor for the intern\nPriyanka Bhagawath\nPlease mention any other added Skill sets required for the project\n•\tStrong fundamentals of RF communication",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+      "content": "•\tStrong fundamentals of RF communication\n•\tAnalytical and numerical methods for predicting RF performance.\nCost Centre owner approval received\nYES\nNO\nAdditional comments (if any) that may be useful",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+      "content": "NOVA 2025 - Applications\nWeb Analytics for SABIC Customer Facing Portals\nMention the SBU/Department/Function name.\nSHPP/GAPT\nMention your preferred academic background of Study\nData Science, AI/ML, Computer Science\nSelect Work Location\nBengaluru\nGurugram\nVadodara\nMumbai\nPlease outline the project Scope in detail\nObjectives:",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+      "content": "Objectives:\n•\tCustomers in the digital era have information at their fingertips about where to find goods and services, what to buy and how much to expect to pay. They can find the perfect products for their needs, and therefore, organizations must do everything they can to serve the right products and marketing campaigns to their audience.",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+      "content": "•\tTo do this, organizations can use customer analytics tools to understand their customers.\n•\tThe goal of customer analytics is to create a single, accurate view of an organization's customer base, which can inform decisions about how to best acquire and retain future customers. It can also identify high-value customers and suggest proactive ways to interact with them.",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+      "content": "•\tOrganizations that deeply understand their customers' buying habits and lifestyle preferences can more easily predict those people's behavior and, therefore, can optimize the customer journey.\nWork Scope:\n•\tStudy SABIC’s customer facing portals and user tracking data.\n•\tStudy best practices in web and customer analytics.",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+      "content": "•\tBuild web and customer analytics plan for SABIC customer facing portals to identify, attract and retain most profitable customers.\n•\tDocument the steps, train the team and handover the AI model to data team for live deployment\nPlease select the type of internship\nManagement interns - 2 Months\nEngineering interns - 6 to 10 Months\nCS intern - 12 to 15 Months\nCA interns - 12 to 15 Months",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+      "content": "CA interns - 12 to 15 Months\nOther technical interns\nNo of Interns required\n1\nAssigned project lead/mentor for the intern\nSubhransu Mohapatra\nPlease mention any other added Skill sets required for the project\n•\tData Science\n•\tAI/ML\nCost Centre owner approval received\nYES\nNO\nAdditional comments (if any) that may be useful",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-2",
+      "filename": "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "ES_Associate Consultatnt_Revised_RG.docx",
+      "content": "Position: Associate Consultant, Expert Services (Professional Services), IAM/IGA\nLocation: Bengaluru | Fulltime - Hybrid\nJoin Saviynt – Pioneers in Intelligent & Smart Identity Security",
+      "company": "Saviynt_MTech_2026",
+      "role": "General",
+      "filename": "ES_Associate Consultatnt_Revised_RG.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "ES_Associate Consultatnt_Revised_RG.docx",
+      "content": "At Saviynt, we are redefining the future of identity security. As a leading provider of intelligent, cloud-first Identity Security solutions, we empower organizations to protect their most critical assets. Our innovative platform leverages advanced AI and machine learning to deliver unparalleled insights and automation, ensuring our clients stay ahead in a rapidly evolving digital landscape.",
+      "company": "Saviynt_MTech_2026",
+      "role": "General",
+      "filename": "ES_Associate Consultatnt_Revised_RG.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Good understanding of identity governance and administration principles is a plus\nTraining or proven hands-on experience in implementing (design, development, testing and deployment) any leading IGA products in the market is a plus\nKnowledge of LDAP or Active Directory or Azure Active Directory is a plus. \nWhy Saviynt?",
+      "company": "Saviynt_MTech_2026",
+      "role": "General",
+      "filename": "ES_Associate Consultatnt_Revised_RG.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Why Saviynt?\nInnovative Environment: Be part of a team that’s at the forefront of identity security technology.\nProfessional Growth: Opportunities for continuous learning and career advancement.\nCollaborative Culture: Work with a talented and energetic team in a supportive and dynamic environment.",
+      "company": "Saviynt_MTech_2026",
+      "role": "General",
+      "filename": "ES_Associate Consultatnt_Revised_RG.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Impactful Work: Contribute to solutions that protect some of the world’s largest and most complex organizations.",
+      "company": "Saviynt_MTech_2026",
+      "role": "General",
+      "filename": "ES_Associate Consultatnt_Revised_RG.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Job Description - Embedded Intern.docx",
+      "content": "Job Title: Embedded Engineer - Intern\n\nDepartment: RT&I - Software Domain",
+      "company": "Thales_MTech_2026_",
+      "role": "General",
+      "filename": "Job Description - Embedded Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "Conduct cutting-edge research and development in embedded software systems, focusing on RISC-V architecture, secure boot, and hypervisor technologies.\nContribute to writing detailed technical specifications, research papers, and publications related to secure boot and hypervisors for RISC-V platforms.",
+      "company": "Thales_MTech_2026_",
+      "role": "General",
+      "filename": "Job Description - Embedded Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "Collaborate with cross-functional teams to design, implement, and evaluate embedded software solutions on RISC-V platforms.\nDevelop and test embedded software on evaluation boards using Yocto and similar development tools.\nDesign and implement secure boot mechanisms and low-level firmware for embedded systems.",
+      "company": "Thales_MTech_2026_",
+      "role": "General",
+      "filename": "Job Description - Embedded Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "Contribute to the development and evaluation of open-source hypervisors for RISC-V platforms.\nStay up-to-date with the latest advancements in embedded systems, RISC-V architecture, and security technologies.",
+      "company": "Thales_MTech_2026_",
+      "role": "General",
+      "filename": "Job Description - Embedded Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "Qualifications:\nCurrently pursuing a Mtech / PhD in Computer Science, Electrical Engineering, or a related field, with a focus on embedded systems, computer architecture, or cybersecurity.\nStrong knowledge of embedded software systems, operating systems, and computer architecture.\nProficiency in programming languages such as C/C++ and assembly.",
+      "company": "Thales_MTech_2026_",
+      "role": "General",
+      "filename": "Job Description - Embedded Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "Experience with evaluation boards and embedded development tools, particularly Yocto.\nHands-on experience in secure firmware development, including UEFI.\nStrong understanding of RISC-V architecture and secure boot mechanisms.\nFamiliarity with open-source hypervisors (e.g., Xen, KVM) and virtualization concepts.\nExperience with performance analysis, optimization, and debugging.",
+      "company": "Thales_MTech_2026_",
+      "role": "General",
+      "filename": "Job Description - Embedded Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Experience with secure boot systems and bootloaders in embedded systems.\nFamiliarity with RISC-V security extensions (e.g., TrustZone) and hardware security concepts (e.g., cryptographic algorithms).\nExperience in hypervisor design and virtualization technologies.\nKnowledge of hardware security principles and cryptographic algorithms used in embedded systems.",
+      "company": "Thales_MTech_2026_",
+      "role": "General",
+      "filename": "Job Description - Embedded Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Experience with version control systems like Git.\nFamiliarity with modern software development practices and tools.",
+      "company": "Thales_MTech_2026_",
+      "role": "General",
+      "filename": "Job Description - Embedded Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Ways to Stand Out From the Crowd:\nDemonstrated experience in contributing to open-source projects, especially related to RISC-V, hypervisors or embedded systems.\nPublished research in the areas of embedded systems, security, or virtualization technologies.\nExperience working with advanced RISC-V platforms or secure boot systems in a real-world context.",
+      "company": "Thales_MTech_2026_",
+      "role": "General",
+      "filename": "Job Description - Embedded Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Strong interest in cutting-edge research and development, particularly in RISC-V architecture and security features.\nA portfolio of successful projects or collaborations in embedded systems or secure software development.",
+      "company": "Thales_MTech_2026_",
+      "role": "General",
+      "filename": "Job Description - Embedded Intern.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "JD Data & Analytics Internship.docx",
+      "content": "JREQ185628 – Data & Analytics Intern",
+      "company": "Thomson Reuters_MTech_2026",
+      "role": "General",
+      "filename": "JD Data & Analytics Internship.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "1. Data Collection and Cleaning: Assist in gathering data from various sources and perform data cleaning to ensure accuracy and reliability.\n2. Data Analysis: Support the analysis of datasets to identify trends, patterns, and insights that can inform business decisions.\n3. Reporting and Visualization: Help create reports and visualizations to effectively communicate data findings to stakeholders.",
+      "company": "Thomson Reuters_MTech_2026",
+      "role": "General",
+      "filename": "JD Data & Analytics Internship.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "4. Model Development: Support the development and testing of machine learning models and algorithms to solve specific business problems.\n5. Data Stewardship: Collaborate with data stewards to support data governance initiatives and address data-related issues.\n6. Data Policy Support: Assist in the development and implementation of data governance policies, standards, and procedures.",
+      "company": "Thomson Reuters_MTech_2026",
+      "role": "General",
+      "filename": "JD Data & Analytics Internship.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "7. Data Quality Monitoring: Help monitor and assess the quality of data across various systems to ensure accuracy and consistency.\n8. Research and Development: Conduct research on new data tools, techniques, and best practices to improve data analysis processes.",
+      "company": "Thomson Reuters_MTech_2026",
+      "role": "General",
+      "filename": "JD Data & Analytics Internship.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Key Responsibilities",
+      "content": "9. Collaboration: Work closely with team members and other departments to understand their data needs and provide support in data-related projects.\n10. Documentation: Assist in documenting processes, methodologies, and findings to ensure knowledge retention and easy reference.",
+      "company": "Thomson Reuters_MTech_2026",
+      "role": "General",
+      "filename": "JD Data & Analytics Internship.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Exposure to Tools and Technologies: Give interns the opportunity to work with industry-standard tools and technologies, such as Python, R, SQL, and data visualization software.\nCollaborative Environment: Foster a supportive and inclusive workplace where interns can collaborate with team members and contribute ideas.",
+      "company": "Thomson Reuters_MTech_2026",
+      "role": "General",
+      "filename": "JD Data & Analytics Internship.docx",
+      "file_type": ".docx"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Feedback and Evaluation: Offer regular feedback and performance evaluations to help interns understand their strengths and areas for improvement.",
+      "company": "Thomson Reuters_MTech_2026",
+      "role": "General",
+      "filename": "JD Data & Analytics Internship.docx",
+      "file_type": ".docx"
+    }
+  ]
+}

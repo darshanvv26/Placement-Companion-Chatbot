@@ -1,0 +1,44 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# Hachidori_MTech_2026
+
+**HACHIDORI ROBOTICS PVT LTD**  
+**Not Eligible**  
+
+- **Bangalore**  
+- **Internship**  
+- **30T PM**  
+- **Duration : 12 month(s)**  
+
+**Starts On**  
+**To be announced**  
+
+**Apply Before**  
+**24 May 2025**  
+**02:00 PM**  
+
+---
+
+## Drive Description  
+**No Description**  
+
+---
+
+## Round Details  
+- **Round 1**  
+
+---
+
+## Profile & CTC  
+**Robotics Application Engineer - Intern**  
+**Stipend**  
+**₹ 30T PM**
+==================================================
+image size:  (1835, 951)
+valid image tokens:  932
+output texts tokens (valid):  142
+compression ratio:  0.15
+==================================================
+===============save results:===============

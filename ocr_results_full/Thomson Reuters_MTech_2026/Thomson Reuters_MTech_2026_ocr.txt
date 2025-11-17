@@ -1,0 +1,43 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+Thomson Reuters_MTech_2026
+
+Thomson Reuters International Pvt Ltd  
+Not Eligible  
+
+Bangalore  
+Internship  
+70T PM  
+Duration: 12 month(s)  
+
+Starts On 17 Mar 2025 (Confirmed date)  
+Apply Before 08 Mar 2025 | 10:00 AM  
+
+---
+
+**Drive Description**  
+No Description  
+
+---
+
+**Round Details**  
+- Round 1  
+- Round 2  
+  - Placement Hall, 3rd Floor, Library Building  
+  - 17 Mar 2025 | 09:00 AM  
+
+---
+
+**Profile & CTC**  
+Data And Analytics Intern  
+Stipend  
+₹ 70T PM
+==================================================
+image size:  (1826, 953)
+valid image tokens:  933
+output texts tokens (valid):  141
+compression ratio:  0.15
+==================================================
+===============save results:===============

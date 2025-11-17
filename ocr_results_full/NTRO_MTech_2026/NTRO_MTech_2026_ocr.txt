@@ -1,0 +1,52 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# NTRO_MTech_2026
+
+**National Technical Research Organization (NTRO)**  
+**Not Eligible**  
+**Core I (Spot)**  
+
+You were disabled from drive or portal when this drive was taken place  
+Drives criteria do not match your data before the last date & time to apply.  
+
+- **PAN India**  
+- **Internship**  
+- **40T PM**  
+- **Duration : 6 month(s)**  
+
+**Starts On**  
+**To be announced**  
+**Apply Before**  
+**10 May 2025**  
+**10:00 AM**  
+
+---
+
+## Drive Description
+
+National Technical Research Organisation(NTRO) is a premier technical research organization of the Govt. of India, which is inter alia involved in design, development, acquisition and integration of cutting-edge technologies, in multiple domains, for generating actionable intelligence, to meet Tech-Int. requirements for the security of the nation.  
+We work in domain areas such as Artificial Intelligence, Cloud Computing, Crypto logy, Communications, Cyber Security, Data Analytics, Remote sensing, Software Development, Linguistics, Maritime, Aviation,et al and have challenging real life problem statements to be addressed.  
+NTRO offers internships for post graduate students pursuing M. Tech./M.E./M.Sc. for a duration of 03 to 06 months. The internship offers an attractive monthly stipend of Rs. 40,000/-(for Post graduate students).  
+
+**Read Less**  
+
+---
+
+## Round Details
+
+**Round 1**  
+
+**Profile & CTC**  
+
+**Intern**  
+**Stipend**  
+**₹ 40T PM**
+==================================================
+image size:  (1823, 952)
+valid image tokens:  933
+output texts tokens (valid):  335
+compression ratio:  0.36
+==================================================
+===============save results:===============

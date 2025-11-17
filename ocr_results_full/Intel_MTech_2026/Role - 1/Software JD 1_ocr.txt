@@ -1,0 +1,26 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([2, 100, 1280])
+=====================
+Hardware Engineer conducts research, definition, design, verification & documentation for SoC (System on a Chip) development.
+
+Performs Logic design for integration of cell libraries, functional units, and sub-systems into SoC full chip designs. Register Transfer Level coding, and simulation for SoCs.
+
+Contributes to the development of multidimensional designs involving the layout of complex integrated circuits.
+
+Will be working on aspects of the SoC design flow from high-level design to synthesis, place and route, timing, and power to create a design database that is ready for manufacturing.
+
+Initiates, guides, and coordinates overall design and development of new ideas and products.
+
+He/She should be willing to ramp up quickly on required areas like RTL, Verification/Validation, Structural Design/Physical Design, Analog, Firmware, Embedded etc.
+
+Hardware Engineer (SoC/IP)
+
+We have roles in Architecture, AI/ML, Digital and Analog domain
+==================================================
+image size:  (800, 450)
+valid image tokens:  344
+output texts tokens (valid):  188
+compression ratio:  0.55
+==================================================
+===============save results:===============

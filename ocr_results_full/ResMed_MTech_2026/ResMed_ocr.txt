@@ -1,0 +1,36 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+ResMed_MTech_2026
+
+ResMed Technology Pvt Ltd  
+Not Eligible  
+
+Bangalore | Chennai  
+Internship  
+60T PM  
+Duration : 12 month(s)  
+
+Starts On To be announced  
+Apply Before 30 Jan 2025 | 10:00 AM  
+
+Drive Description  
+No Description  
+
+Download file  
+
+Round Details  
+Round 1  
+
+Profile & CTC  
+Multiple Profiles  
+Stipend  
+₹ 60T PM
+==================================================
+image size:  (1832, 952)
+valid image tokens:  933
+output texts tokens (valid):  92
+compression ratio:  0.1
+==================================================
+===============save results:===============

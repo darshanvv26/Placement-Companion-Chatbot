@@ -1,0 +1,53 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# Beckman Coulter_MTech_2026
+
+**Core I (Spot)**
+
+You were disabled from drive or portal when this drive was taken place  
+Drives criteria do not match your data before the last date & time to apply.
+
+**Apply Before**  
+**11 Jun 2025**  
+**10:00 AM**
+
+---
+
+## Drive Description
+
+**Requirements 1:**  
+OPCO– Beckman Coulter  
+Qualification – ME/Mech in Cyber Security or Information Security or Machine Learning or Computer Science  
+Skills – They need to work on Product Security/ Cyber Security  
+Duration – 1 Year Internship Program  
+No. Of Openings – 2  
+
+**Requirements 2:**  
+OPCO– Beckman Coulter  
+Qualification – ME/Mech in Artificial Intelligence or Machine Learning or Information Science and technology  
+Skills – They need to work on AI/ML Solutions in various scales  
+Duration – 1 Year Internship Program  
+No. Of Openings – 2  
+
+[Read Less]
+
+---
+
+## Round Details
+
+**Round 1**
+
+**Profile & CTC**
+
+**Intern**  
+Stipend  
+**35T PM**
+==================================================
+image size:  (1834, 949)
+valid image tokens:  932
+output texts tokens (valid):  234
+compression ratio:  0.25
+==================================================
+===============save results:===============

@@ -1,0 +1,43 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+Nissan Digital_MTech_2026
+
+Nissan Digital India  
+Not Eligible  
+
+Thiruvanathapuram, Kerala  
+Internship  
+20T PM  
+Duration : 6 month(s)  
+
+Starts On  To be announced  
+
+Apply Before  30 Apr 2025 | 10:00 AM  
+
+---
+
+**Drive Description**  
+Nissan Digital India is a Global Capability Centre of Nissan Motor focusing on Digital Transformative projects for Nissan Motor Japan.  
+Tentative Start Date of Internship : Mid of May or Early June.  
+
+---
+
+**Round Details**  
+- Round 1  
+
+---
+
+**Profile & CTC**  
+
+Intern  
+Stipend  
+₹ 20T PM
+==================================================
+image size:  (1824, 947)
+valid image tokens:  932
+output texts tokens (valid):  142
+compression ratio:  0.15
+==================================================
+===============save results:===============

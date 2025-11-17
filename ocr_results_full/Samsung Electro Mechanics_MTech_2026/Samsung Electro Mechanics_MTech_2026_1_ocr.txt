@@ -1,0 +1,44 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+Job Description: C# .Net /WPF (Full Stack Developer)
+
+Job Responsibilities:
+- Design & Develop web portals which are optimized, user friendly and as per client requirement
+- Develop scalable and robust applications using rich interfaces, graphical views and robust user controls
+- Development & testing, understanding of client requirements and mapping the features to requirements
+- Maintenance of artifacts for the projects as per CMMI Level 3
+
+Skills Required:
+Mandatory
+Strong skills (hands on development) expected in:
+- C# (.NET framework 4.5.2+) web programming, WPF programming, Stored Procedures
+- MVC, ASP.Net, SQL Server 2008, Web API, Ajax, JQUERY, JavaScript
+- Windows Service creation, IIS 7/8 Deployment, TCP (sockets), REST API's
+- C# rich interfaces, graphical views and user controls & CSS
+
+Knowledge on
+- CSS3, JSON, OOPS
+- Design Architectures
+- HTML5, Multi-Threading
+- Good experience in SQL Tuning / Profiler, Application performance monitoring
+- Hands-on experience of stored procedure creation & query optimization
+
+Read Less
+
+Round Details
+- Round 1
+
+Profile & CTC
+
+Multiple Profiles
+- Stipend
+- 30T PM
+==================================================
+image size:  (1832, 654)
+valid image tokens:  391
+output texts tokens (valid):  265
+compression ratio:  0.68
+==================================================
+===============save results:===============

@@ -1,0 +1,24 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([2, 100, 1280])
+=====================
+Software Engineer
+
+We have roles in Computer Architecture, Embedded, Graphics and Firmware
+
+Software Engineers conduct or participate in multidisciplinary research and collaborate with design, layout and/or hardware engineers in the design development and utilization of productivity enhancement layout tools
+
+Determines computer user needs, advises hardware designers on machine characteristics that affect software systems such as storage capacity, processing speed, and input/output requirements, designs and develops compilers and assemblers, utility programs, and operating systems
+
+Responds to customer/client requests or evens as they occur. Develops solutions to problems utilizing formal education, judgement and formal software process
+
+Researches technical trends and utilizes deep domain and market segment expertise to prototype solutions and develop AI software including open-source libraries and models
+
+Integrates and debugs software across the stack for a specific product, platform, feature, or technology throughout the product lifecycle, including pre-silicon development, power on, and/or post-silicon development
+==================================================
+image size:  (800, 450)
+valid image tokens:  344
+output texts tokens (valid):  190
+compression ratio:  0.55
+==================================================
+===============save results:===============

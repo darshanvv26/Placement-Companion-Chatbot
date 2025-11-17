@@ -1,0 +1,40 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+NetApp_MTech_2026
+
+NetApp  
+Opted-In  
+
+Bangalore  
+Internship  
+60T PM  
+Duration : 12 month(s)  
+
+Starts On  To be announced  
+
+Apply Before  19 Feb 2025  10:00 AM  
+
+Drive Description  
+No Description  
+
+Download file  
+
+Round Details  
+Round 1  
+
+Attendance  
+
+Profile & CTC  
+
+MTS Intern  
+Stipend  
+₹ 60T PM
+==================================================
+image size:  (1838, 955)
+valid image tokens:  933
+output texts tokens (valid):  91
+compression ratio:  0.1
+==================================================
+===============save results:===============

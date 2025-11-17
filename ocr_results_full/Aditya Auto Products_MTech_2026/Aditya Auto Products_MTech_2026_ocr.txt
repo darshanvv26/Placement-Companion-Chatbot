@@ -1,0 +1,51 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# Aditya Auto Products_MTech_2026
+
+**Aditya Auto Products & Engineering (India) Private Limited**  
+**Not Eligible**  
+[Core I (Spot)]  
+
+You were disabled from drive or portal when this drive was taken place  
+Drives criteria do not match your data before the last date & time to apply.  
+
+- **Bangalore**  
+- **Internship**  
+- **30T PM**  
+- **Duration : 4 month(s)**  
+
+**Starts On**  
+**To be announced**  
+**Apply Before**  
+**10 Jun 2025**  
+**02:00 PM**  
+
+---
+
+## Drive Description  
+**Download file**  
+
+**skillset required,**  
+Acoustics : Expertise in AI/ML  
+IoT Dashboard : Expertise in Databases, SQL, PowerBI  
+Warranty Dashboard : Expertise in Databases, SQL, PowerBI, Statistics.  
+
+---
+
+## Round Details  
+**Round 1**  
+
+**Profile & CTC**  
+
+**Multiple Profiles**  
+**Stipend**  
+**₹ 30T PM**
+==================================================
+image size:  (1842, 953)
+valid image tokens:  932
+output texts tokens (valid):  221
+compression ratio:  0.24
+==================================================
+===============save results:===============

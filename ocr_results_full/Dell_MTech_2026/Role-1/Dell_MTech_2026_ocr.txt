@@ -1,0 +1,54 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# Dell_MTech_2026
+
+## Core I (Spot)
+**Eligibility Criteria**
+
+- Bangalore
+- Internship
+- 35T PM
+- Duration: 12 month(s)
+- Starts On **12 Feb 2025 (Confirmed date)**
+
+**Opt-Out** **Opt-In**
+
+**Apply Before** **11 Feb 2025** **10:00 AM**
+
+---
+
+## Drive Description
+**On Conversion CTC - INR 21,96,000**
+
+Student should not have more than 12 months of prior experience, if any.
+
+**Download file**
+
+---
+
+## Round Details
+- **Round 1**
+  - Online Test
+  - Online
+  - 12 Feb 2025 | 04:00 PM
+- **Round 2**
+  - Interview
+  - Placement Hall, 3rd Floor, Library Building
+  - 17 Feb 2025 | 09:00 AM
+
+---
+
+## Profile & CTC
+**Graduate Intern**
+- Stipend
+
+**₹ 35T PM**
+==================================================
+image size:  (1844, 956)
+valid image tokens:  932
+output texts tokens (valid):  215
+compression ratio:  0.23
+==================================================
+===============save results:===============

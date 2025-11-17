@@ -1,0 +1,54 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# Volvo_MTech_2026
+
+**Volvo Group India**  
+**Not Eligible**  
+
+- **Bangalore**  
+- **Internship**  
+- **40T PM**  
+- **Duration : 9 month(s)**  
+
+**Starts On**  
+**To be announced**  
+
+**Apply Before**  
+**21 Apr 2025**  
+**10:00 AM**
+
+---
+
+## Drive Description
+
+**Eligibility:**  
+Excellent communication in English.  
+Good knowledge in MS Office.  
+
+| S.No | MTech Specialization    | Required Skill sets    |
+|---|---|---|
+| 1    | Data Analytics/Data Science/AIML    | Power platforms (Power BI, SQL, python, power apps, power automate) |
+| 2    | Supply Chain Management/Industrial and production/Manufacturing management | Supply Chain Management, Risk Management, Q365, good in data management and analytics |
+
+**Read Less**
+
+---
+
+## Round Details
+
+**Round 1**  
+
+**Profile & CTC**  
+
+**Intern**  
+**Stipend**  
+**₹ 40T PM**
+==================================================
+image size:  (1841, 950)
+valid image tokens:  932
+output texts tokens (valid):  228
+compression ratio:  0.24
+==================================================
+===============save results:===============

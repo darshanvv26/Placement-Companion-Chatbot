@@ -1,0 +1,54 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# ArcherIRM_MTech_2026
+
+**ArcherIRM Technologies**  
+**Not Eligible**  
+**Core I (Spot)**  
+**Eligibility Criteria**
+
+- Bangalore  
+- Internship  
+- 40T PM  
+- Duration: 12 month(s)  
+
+**Starts On**  
+**11 Mar 2025 (Confirmed date)**  
+**Apply Before**  
+**05 Mar 2025**  
+**03:00 PM**
+
+---
+
+## Drive Description  
+**On conversion CTC - 10 LPA**
+
+---
+
+### Round Details
+
+- **Round 1**  
+  - **Online Test**  
+    - Labs  
+    - 11 Mar 2025 | 09:00 AM  
+  - **Round 2**  
+    - **Interview**  
+    - Placement Hall, 3rd Floor, Library Building  
+    - 11 Mar 2025 | 11:00 AM  
+
+---
+
+### Profile & CTC
+
+**Intern**  
+**Stipend**  
+**40T PM**
+==================================================
+image size:  (1824, 952)
+valid image tokens:  933
+output texts tokens (valid):  211
+compression ratio:  0.23
+==================================================
+===============save results:===============

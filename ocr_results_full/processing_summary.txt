@@ -1,0 +1,119 @@
+OCR Processing Summary
+================================================================================
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/NTRO_MTech_2026/NTRO_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Emerson_MTech_2026/Emerson_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Thales_MTech_2026_/Thales_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Schneider_MTech_2026/Schneider_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Techolution_MTech_2026/Techolution_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Bosch_MTech_2026/Bosch_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Signify_MTech_2026/Signify_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Suprajit_MTech_2026/Suprajit_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/ABB_MTech_2026/ABB_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Saviynt_MTech_2026/Saviynt_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Nissan Digital_MTech_2026/Nissan Digital_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Honeywell_MTech_2026_/Honeywell_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Marvell Technology_/Marvell Technology.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Hachidori_MTech_2026/Hachidori_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Juniper Networks/Juniper Networks.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Niftrix_MTech_2026/Niftrix_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Dell_MTech_2026/Role-1/Dell_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Dell_MTech_2026/Role-3/Dell_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Sabic_MTech_2026_/Role-2/Sabic_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Sabic_MTech_2026_/Role-1/Sabic_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Intel_MTech_2026/Role - 1/Hardware JD 1.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Intel_MTech_2026/Role - 1/Software JD 1.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Intel_MTech_2026/Role - 1/Intel_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Intel_MTech_2026/Role - 2/Software JD 1.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Intel_MTech_2026/Role - 2/Intel_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Intel_MTech_2026/Role - 3/Intel_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Synaptics_MTech_2026/Synaptics_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Astrikos_MTech_2026/Astrikos_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/PowerSchool_MTech_2026/PowerSchool_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/ResMed_MTech_2026/ResMed.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Novartis_MTech_2026/Novartis_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Philips_MTech_2026_/Philips_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Axius Software_MTech_2026/Axius Software_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Aditya Birla_MTech_2026/Aditya Birla_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Samsung Electro Mechanics_MTech_2026/Samsung Electro Mechanics_MTech_2026_1.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Samsung Electro Mechanics_MTech_2026/Samsung Electro Mechanics_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Amazon_MTech_2026/Amazon_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Analog Devices/Analog Devices.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/STMicrelectronics_MTech_2026/STMicrelectronics_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/STMicrelectronics_MTech_2026/STMicrelectronics_MTech_2026_1.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Ivanti_MTech_2026/Ivanti_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/GE Healthcare_MTech_2026/GE Healthcare_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Volvo_MTech_2026/Role - 1/Volvo_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Volvo_MTech_2026/Role - 2/Volvo_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Aditya Auto Products_MTech_2026/Aditya Auto Products_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Videojet_MTech_2026/Videojet_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/NetApp_MTech_2026/NetApp_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Beckman Coulter_MTech_2026/Beckman Coulter_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Nvidia_MTech_2026/Role - 1/Nvidia_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Nvidia_MTech_2026/Role - 2/Nvidia_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/ArcherIRM_MTech_2026/Screenshot 2025-03-04 120134.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/SAP Labs_MTech_2026/SAP Labs_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Commscope_MTech_2026/Commscope_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Commscope_MTech_2026/Drive Description.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Ericsson_MTech_2026/Ericsson_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Thomson Reuters_MTech_2026/Thomson Reuters_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Tishyas Medical Device_MTech_2026/Tishyas Medical Device_MTech_2026.png
+
+✓ SUCCESS: /home/darshan/darshan/darshan/Placement_Data/Placements/Placements/Stryker_MTech_2026/Stryker_MTech_2026.png
+

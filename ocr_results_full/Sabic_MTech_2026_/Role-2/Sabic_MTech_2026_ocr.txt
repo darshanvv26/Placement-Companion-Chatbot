@@ -1,0 +1,49 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# Sabic_MTech_2026
+
+**Sagic Research & Technology Pvt Ltd.**  
+**Eligible**
+
+- Bangalore  
+- Internship  
+- 25T PM  
+- Duration: 12 month(s)  
+- Starts On **To be announced**  
+
+**Apply Before**  
+**21 Mar 2025**  
+**10:00 AM**
+
+---
+
+## Drive Description
+
+Refer attachments for project description and **give preference as per your interest.**
+
+---
+
+## Round Details
+
+- **Round 1**  
+  - **Interview**  
+  - **Online**  
+  - **24 Mar 2025**  
+  - **09:00 AM**
+
+---
+
+## Profile & CTC
+
+- **Intern**  
+  - **Stipend**  
+  - **₹ 25T PM**
+==================================================
+image size:  (1824, 944)
+valid image tokens:  932
+output texts tokens (valid):  164
+compression ratio:  0.18
+==================================================
+===============save results:===============

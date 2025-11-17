@@ -1,0 +1,49 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# SAP Labs_MTech_2026
+
+**SAP Labs**  
+**Not Eligible**  
+
+- Bangalore | Pune | Mumbai | Gurgaon | Hyderabad  
+- Internship  
+- 35T PM  
+- Duration : 12 month(s)  
+
+**Starts On**  
+**To be announced**  
+
+**Apply Before**  
+**27 Feb 2025**  
+**11:00 AM**  
+
+---
+
+## Core I (Spot)
+
+**Eligibility Criteria**  
+Drives criteria do not match your data before the last date & time to apply.  
+
+---
+
+## Round Details
+
+- **Round 1**  
+  - **Round 1**  
+
+---
+
+## Profile & CTC
+
+**Multiple Profiles**  
+**Stipend**  
+**₹ 35T PM**
+==================================================
+image size:  (1819, 950)
+valid image tokens:  933
+output texts tokens (valid):  161
+compression ratio:  0.17
+==================================================
+===============save results:===============

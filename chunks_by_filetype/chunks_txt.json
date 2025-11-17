@@ -1,0 +1,1051 @@
+{
+  "file_type": ".txt",
+  "total_files": 52,
+  "total_chunks": 64,
+  "companies": {
+    "ABB_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Aditya Auto Products_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Aditya Birla_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Amazon_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Analog Devices": {
+      "file_count": 1,
+      "chunk_count": 2,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 2
+        }
+      ]
+    },
+    "ArcherIRM_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Astrikos_MTech_2026": {
+      "file_count": 2,
+      "chunk_count": 5,
+      "files": [
+        {
+          "filename": "Drive Description.txt",
+          "role": "General",
+          "chunks": 4
+        },
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Axius Software_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Beckman Coulter_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Bosch_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Commscope_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Dell_MTech_2026": {
+      "file_count": 3,
+      "chunk_count": 5,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "Role-1",
+          "chunks": 2
+        },
+        {
+          "filename": "Info.txt",
+          "role": "Role-2",
+          "chunks": 2
+        },
+        {
+          "filename": "Info.txt",
+          "role": "Role-3",
+          "chunks": 1
+        }
+      ]
+    },
+    "Emerson_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Ericsson_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Hachidori_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Honeywell_MTech_2026_": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Intel_MTech_2026": {
+      "file_count": 3,
+      "chunk_count": 3,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "Role - 1",
+          "chunks": 1
+        },
+        {
+          "filename": "Info.txt",
+          "role": "Role - 2",
+          "chunks": 1
+        },
+        {
+          "filename": "Info.txt",
+          "role": "Role - 3",
+          "chunks": 1
+        }
+      ]
+    },
+    "Ivanti_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Juniper Networks": {
+      "file_count": 1,
+      "chunk_count": 2,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 2
+        }
+      ]
+    },
+    "Marvell Technology_": {
+      "file_count": 1,
+      "chunk_count": 2,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 2
+        }
+      ]
+    },
+    "NetApp_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 2,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 2
+        }
+      ]
+    },
+    "Niftrix_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Nissan Digital_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Noika": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Novartis_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 2,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 2
+        }
+      ]
+    },
+    "NTRO_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Nvidia_MTech_2026": {
+      "file_count": 2,
+      "chunk_count": 2,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "Role - 1",
+          "chunks": 1
+        },
+        {
+          "filename": "Info.txt",
+          "role": "Role - 2",
+          "chunks": 1
+        }
+      ]
+    },
+    "Philips_MTech_2026_": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "PowerSchool_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "ResMed_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 2,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 2
+        }
+      ]
+    },
+    "Sabic_MTech_2026_": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "Role-1",
+          "chunks": 1
+        }
+      ]
+    },
+    "Samsung Electro Mechanics_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "SAP Labs_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Saviynt_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Schneider_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Signify_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "STMicrelectronics_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Stryker_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 2,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 2
+        }
+      ]
+    },
+    "Suprajit_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Synaptics_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Techolution_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Thales_MTech_2026_": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Thomson Reuters_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Tishyas Medical Device_MTech_2026": {
+      "file_count": 1,
+      "chunk_count": 1,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "General",
+          "chunks": 1
+        }
+      ]
+    },
+    "Volvo_MTech_2026": {
+      "file_count": 2,
+      "chunk_count": 2,
+      "files": [
+        {
+          "filename": "Info.txt",
+          "role": "Role - 1",
+          "chunks": 1
+        },
+        {
+          "filename": "Info.txt",
+          "role": "Role - 2",
+          "chunks": 1
+        }
+      ]
+    }
+  },
+  "chunks": [
+    {
+      "section": "Eligibility Criteria",
+      "content": "8 CGPA in PG(Master's) \n\n\nNo one got call from BDA",
+      "company": "ABB_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "60% or 6 CGPA In PG.",
+      "company": "Aditya Auto Products_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "60% or 6 CGPA In PG.",
+      "company": "Aditya Birla_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "8 CGPA in PG(Master's)",
+      "company": "Amazon_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "8 CGPA in PG(Master's) \n\nData Intern  role - 25/01/25\nHirePro based online site \n1 hrs - online protected written in Data Science Lab/ Remote(home) (video and audio)\ntotal 44 question\n14 - Analytical questions Easy Level\n30 - technical questions Easy Level\n\n2nd round Interview 3 got selected - 29/01/25\n1 hr purely based on python sql pyspark on their own IDE (Hard to clear)",
+      "company": "Analog Devices",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "3rd round Interview 1 got selected - 03/02/25\n1 hr purely based on Resume\n\n1 got selected \nData Engineer Intern Role",
+      "company": "Analog Devices",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "70% or 7 CGPA Through out\n\nOnline Test \nMultiple Roles - 10/03/25\nDo Selected Based site \n120 min online protected written in DS Lab (video and screen record)\n\n25 MCQ's\n2 Coding 1 Easy 1 Medium \n\n2nd round\nTechnical round based on team \n\n3rd round\nManagerial Round \n\n4th round \nHR\n\n1 got selected \nGraduate Intern Role",
+      "company": "ArcherIRM_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Drive Details",
+      "content": "Data Science Developer:",
+      "company": "Astrikos_MTech_2026",
+      "role": "General",
+      "filename": "Drive Description.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "Knowledge of Cloud technology (AWS) - Good to Have\n\nPassionate about exploring new technologies\n\n\n\nHow the flow will be",
+      "company": "Astrikos_MTech_2026",
+      "role": "General",
+      "filename": "Drive Description.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Skill Set Requirements",
+      "content": "How the flow will be\n\nWe will be giving Problem Statement with a timeline of 1 week which begins on 21st March 2025 to conclude by 27th March 2025 to the mentioned set of students\nOur assessment will begin from 28th March to 2nd April and share the shortlisted names\nWe will be in Manipal In Person for final interviews to chose the right fit amongst the shortlisted names - 4trh & 5th April",
+      "company": "Astrikos_MTech_2026",
+      "role": "General",
+      "filename": "Drive Description.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Job Description",
+      "content": "Experience with Data Visualization Tools like matplotlib, ggplot, d3.js., Tableau that help to visually encode data",
+      "company": "Astrikos_MTech_2026",
+      "role": "General",
+      "filename": "Drive Description.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "70% or 7 CGPA Through out",
+      "company": "Astrikos_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "70% or 7 CGPA Through out",
+      "company": "Axius Software_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "60% or 6 CGPA In PG.",
+      "company": "Beckman Coulter_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "6.5 CGPA in PG(Master's)",
+      "company": "Bosch_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "60% or 6 CGPA in UG and PG",
+      "company": "Commscope_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "60% or 6 CGPA Through out\n\nlater changed to  \n80% or 8 CGPA Through out\n\nOnline Test \nGraduate Intern Data Engineering - 13/02/25\nUnstop based online site\n90 min online protected written in Remotely (video, audio and screen record)\n\n17 questions\n2 coding (1 SQL, 1 coding/ 2 Coding)\n15 MCQ\n\nout 80 shortlisted students (MIT + MSIS)\n16 got selected to round - 2 19/02/25",
+      "company": "Dell_MTech_2026",
+      "role": "Role-1",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "from the rest (64 students from the total 80, 5 got call for other role)\nlook in the Role-2 folder Graduate Intern Marketing role - 19/02/25",
+      "company": "Dell_MTech_2026",
+      "role": "Role-1",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "60% or 6 CGPA Through out\n\nlater changed to  \n80% or 8 CGPA Through out\n\nOnline Test \nGraduate Intern Data Engineering - 13/02/25\nUnstop based online site\n90 min online protected written in Remotely (video, audio and screen record)\n\n17 questions\n2 coding (1 SQL, 1 coding/ 2 Coding)\n15 MCQ\n\nout 80 shortlisted students (MIT + MSIS)\n16 got selected to round - 2",
+      "company": "Dell_MTech_2026",
+      "role": "Role-2",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "from the rest (64 students from the total 80, 5 got call for other role)\nlook in the Role-2 folder\n\nfrom the rest (64 students from the total 80, 5 got call for other role)\nlook in the Role-2 folder Graduate Intern Marketing role - 19/02/25",
+      "company": "Dell_MTech_2026",
+      "role": "Role-2",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "60% or 6 CGPA Through out\n\nNo one was shortlisted from BDA",
+      "company": "Dell_MTech_2026",
+      "role": "Role-3",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "70% or 7 CGPA PG only\n\nSoftware Engineer role - 20/01/25\nGilder based online site \n1.5 hrs - online protected written in Data Science Lab Innovation center (video only no audio)\n1 coding question Medium level\n1 Coding question Medium level",
+      "company": "Emerson_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "75% or 7.5 CGPA In 10th and 12th\t\n65% 0r 6.5 CGPA in UG and PG",
+      "company": "Ericsson_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "70% or 7 CGPA In PG.",
+      "company": "Hachidori_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "70% or 7 CGPA Through out",
+      "company": "Honeywell_MTech_2026_",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "7 CGPA in PG(Master's)\n\nNo test direct resume screening, short listing and then Interview call finally selection.\n\nMultiple teams will be interviewing.\n\n1 got selected.\n\n(internship offered on OS development)",
+      "company": "Intel_MTech_2026",
+      "role": "Role - 1",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "7 CGPA in PG(Master's)",
+      "company": "Intel_MTech_2026",
+      "role": "Role - 2",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "80% or 8 CGPA In PG.",
+      "company": "Intel_MTech_2026",
+      "role": "Role - 3",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "75% or 7.5 CGPA through out.",
+      "company": "Ivanti_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "75% or 7.5 CGPA Through out\n\nData Science role - 20/01/25\nHacker Rank based online site \n2 hrs - online protected written in Data Science Lab (video only no audio)\n1 coding question hard level\n1 data analysis question Mid level (Mean, mode median, variance analysis)\n5 aptitude questions Mid level\n\n\n2nd round \nTechnical online interview conducted in MIT Placement cell",
+      "company": "Juniper Networks",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "3rd Round\nManagerial online interview conducted in MIT Placement cell\n\n4th round\nHR online interview conducted in MIT Placement cell",
+      "company": "Juniper Networks",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "7 CGPA in PG(Master's)\n\nBDA branch was made Ineligible at the final movement on the exam day!!!\n\nML Engineer Intern(Driver Complier Design for ML models) role - 28/01/25\nGlider Rank based online site \n1 hrs - online protected written in Innovation Center Lab (video and audio)\n2 sections \n1 - MCQ's Technical + Aptitude\n2 - MCQ's Code Snippets",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "2nd round \nTechnical interview conducted in MIT Placement cell\n\n3rd Round\nTechnical interview conducted in MIT Placement cell\n\n4th round\nHR interview conducted in MIT Placement cell",
+      "company": "Marvell Technology_",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "60% or 6 CGPA in PG\n\nOnline Test for MTS role - 28/02/25\nNetApp Based platform \n1 hr 45 Mins based on role online written remotely (No video and No audio)\n\n3 coding questions ( 1 Easy, 1 Medium, 1 Hard)\n\n27 MCQ's (logical, Java, Networking, Aptitude)\n\nfew got shorted listed for IT role\n\n2nd Round \nTechnical Interview based on Panel\n\n3rd Round\nManagerial Interview \n\n4th round\nHR",
+      "company": "NetApp_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "3rd Round\nManagerial Interview \n\n4th round\nHR \n\nOnly 5 got selected for next round from BDA\n1 MTS Intern Role\n4 IT Intern Role",
+      "company": "NetApp_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "70% or 7 CGPA in UG and PG\n\nDirect Interview for the students how have Opted-In",
+      "company": "Niftrix_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "8 CGPA in PG",
+      "company": "Nissan Digital_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "65% or 6.5 CGPA Through out\n\nhttps://www.nokia.com/about-us/careers/student-and-graduate-opportunities/india/studenthackathon/\n\nApply through Hackathon only\n\n1st round coding and MCQ's (7-9 March) \n2.5 hr online protected written Remotely (video only)\n\n2 coding easy level\n25 MCQ",
+      "company": "Noika",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "60% or 6 CGPA Through out\n\nData Science Intern role - 10/04/25\nResume shortlist \n\n1st round\nGroup discussion \n\n2nd round \nTechnical interview conducted in MIT Placement cell\n\n3rd round\nHR online interview conducted in MIT Placement cell\n\n\nRest other roles\nOnline Test conducted in MIT Placement cell\n\n2nd round \nTechnical interview conducted in MIT Placement cell",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "3rd round\nHR online interview conducted in MIT Placement cell",
+      "company": "Novartis_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "75% or 7.5 CGPA in PG",
+      "company": "NTRO_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "7.8 CGPA in PG(Master's)\n\nThey showed up after a month\n\nSoftware Inten role - 20/01/25\nHacker Rank based online site \n1 hrs - online protected written in Data Science Lab Innovation Centre (video only no audio)\n2 coding questions medium level (only C & C++)\n27 aptitude questions Mid level (C,C++, logical, reasoning)",
+      "company": "Nvidia_MTech_2026",
+      "role": "Role - 1",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "7.8 CGPA in PG(Master's)",
+      "company": "Nvidia_MTech_2026",
+      "role": "Role - 2",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "70% or 7 CGPA Through out\n\nNo update on next process for BDA",
+      "company": "Philips_MTech_2026_",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "60% or 6 CGPA In PG.",
+      "company": "PowerSchool_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "70% or 7 GPA Through out\n\nOnline Test for Multiple roles - 10/02/25\nMettel Based platform \n1-1.5 hr based on role online protected written in AB-4 Innovation Center (video and audio)\n\n2 - coding question\n16 - MCQ\n\n2nd Round \nTechnical Interview based on Panel\n\n3rd Round\nManagerial Interview \n\n4th round\nHR \n\nOnly 2 got selected for next round from BDA\nData Engineering",
+      "company": "ResMed_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "BDA Students Must Apply for only Data Engineering Role.",
+      "company": "ResMed_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "6 CGPA in PG Only\n\nNo test direct resume screening, short listing and then Interview call finally selection.\n\nOnly one round",
+      "company": "Sabic_MTech_2026_",
+      "role": "Role-1",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "60% or 6 CGPA In PG.",
+      "company": "Samsung Electro Mechanics_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "70% or 7 CGPA Through out\n\nOnline Test for Multiple roles - 28/02/25\nSAP Based platform \n45 Mins based online written remotely (No video and No audio)\n\n2 coding questions (2 Easy)\n\n2nd Round \nTechnical Interview based on Panel\n\n3rd Round\nManagerial Interview \n\n4th round\nHR \n\n1 got selected \nGraduate Intern Role",
+      "company": "SAP Labs_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "70% or 7 CGPA UG and Pg\n\nOnline Test \nExpert Services Intern - 22/02/25\nHacker Earth Based Platform\n1.5 hr 90 mins online protected written Remotely (video only)\n\n2 - coding question (1 - Medium,1 - Hard Level)\n28 - MCQ\n\n2nd Round \nTechnical Interview 30 mins\nJava, Networking, resume based",
+      "company": "Saviynt_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "65% or 6.5 CGPA Through out",
+      "company": "Schneider_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "7 CGPA in PG\n\nOnline Test \nR&D Intern - 11/02/25\nHacker rank based online site\n85 min online protected written in Remotely (video, audio and screen) \n\n26 question\n2 - coding (1 C based, 1 Java Based)\n24 - MCQ (cognitive 12 questions, 12 logical 7 questions)\n\n2nd Round \nTechnical Interview based on Panel (Non Technical Role)\n\n3rd Round\nManagerial Interview \n\n4th round\nHR",
+      "company": "Signify_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "65% or 6.5 CGPA Through out",
+      "company": "STMicrelectronics_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "5 CGPA or 50% Through out\n\nMultiple role - 06/02/25\nCampus Hiring(mettl/mercer) based online site\n88 min online protected written in Remotely (video, audio and screen record)\n6 - sections (Total 85 questions)\n1 - technical 50 questions\n1 - cognitive 7 questions\n1 - logical 7 questions\n1 - visualization 7 questions\n1 - Literature 7 questions\n1 - cognitive ability 7 questions",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "10 Students got selected from 1st round to 2nd round\n\n2nd round Technical - 07/02/25\n30-45 min online but conducted in placement cell \n5 panel members \nprojects\nSQL (more weightage on SQL) role in data analyst \npython\n\nonly 1 got call from hr in the evening - 07/02/25\n10-15 min hr online call \noffered data analyst role.",
+      "company": "Stryker_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "65% or 6.5 CGPA Through out",
+      "company": "Suprajit_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "7 CGPA in PG(Master's)",
+      "company": "Synaptics_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "70% or 7 CGPA in PG",
+      "company": "Techolution_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "6 CGPA only in PG",
+      "company": "Thales_MTech_2026_",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "70% or 7 CGPA Through out\n\nData & Analytics Intern role - 13/03/25\nHacker Rank based online site \n1 hrs - online protected written remotely (video only no audio)\n60 questions\n10 - Big Data\n10 - ML\n10 - Aptitude\n10 - comprehensive\n10 - Mean Avg SD\n10 - Analytical\n\n\n2nd round \nTechnical online interview conducted online remotely\nMainly based on your resume",
+      "company": "Thomson Reuters_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "60% or 6 CGPA In PG.",
+      "company": "Tishyas Medical Device_MTech_2026",
+      "role": "General",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "65% or 6.5 CGPA Through out\n\nNo one got call from BDA",
+      "company": "Volvo_MTech_2026",
+      "role": "Role - 1",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    },
+    {
+      "section": "Eligibility Criteria",
+      "content": "65% or 6.5 CGPA Through out\n\nNo one got call from BDA",
+      "company": "Volvo_MTech_2026",
+      "role": "Role - 2",
+      "filename": "Info.txt",
+      "file_type": ".txt"
+    }
+  ]
+}

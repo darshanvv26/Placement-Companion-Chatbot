@@ -1,0 +1,57 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# Signify_MTech_2026
+
+**Signify Innovation Lab**  
+**Eligible**  
+**Bangalore**  
+**Internship**  
+**35T PM**  
+**Duration : 12 month(s)**  
+**Starts On**  
+**11 Feb 2025 (Confirmed date)**  
+
+**Apply Before**  
+**10 Feb 2025**  
+**10:00 AM**
+
+---
+
+## Core I (Spot)  
+**Eligibility Criteria**  
+
+**Opt-Out**  
+**Opt-In**
+
+---
+
+## Drive Description  
+**On Conversion CTC - 12.65 Lacs +2 Lacs Joining bonus**  
+
+---
+
+## Round Details  
+- **Overview**  
+  - Pre-Placement Talk  
+    - Online  
+    - 11 Feb 2025 | 04:30 PM  
+  - Round 1  
+    - Online Test  
+    - Online  
+    - 11 Feb 2025 | 07:00 PM  
+
+---
+
+## Profile & CTC  
+**Assistant Development Engineer**  
+**Stipend**  
+**₹ 35T PM**
+==================================================
+image size:  (1828, 956)
+valid image tokens:  933
+output texts tokens (valid):  226
+compression ratio:  0.24
+==================================================
+===============save results:===============

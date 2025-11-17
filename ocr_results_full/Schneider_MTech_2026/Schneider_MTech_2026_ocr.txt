@@ -1,0 +1,41 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# Schneider_MTech_2026
+
+**Schneider Electric**  
+Not Eligible  
+
+- PAN India  
+- Internship  
+- 35T PM  
+- Duration: 10 month(s)  
+
+Starts On To be announced  
+
+**Apply Before** 05 May 2025 | 02:00 PM  
+
+---
+
+## Drive Description  
+No Description  
+
+---
+
+## Round Details  
+- Round 1  
+
+---
+
+## Profile & CTC  
+**Multiple Profiles**  
+Stipend  
+₹ 35T PM
+==================================================
+image size:  (1820, 952)
+valid image tokens:  933
+output texts tokens (valid):  104
+compression ratio:  0.11
+==================================================
+===============save results:===============

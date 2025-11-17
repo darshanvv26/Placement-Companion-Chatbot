@@ -1,0 +1,60 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# Saviynt_MTech_2026
+
+**Saviynt**  
+Eligible  
+
+- Bangalore  
+- Internship  
+- 70T PM  
+- **Duration**: 12 month(s)  
+- Starts On **22 Feb 2025 (Tentative date)**  
+
+**Apply Before**  
+**02:00 PM**  
+
+---
+
+## Core I (Spot)  
+**Eligibility Criteria**  
+
+**Opt-Out**  
+**Opt-In**  
+
+---
+
+## Drive Description  
+B.Tech/BE should be in either CS or IT (preferred) or ECE (Electronics)  
+**CTC After Conversion to FTE:** INR 20 LPA (INR 18 LPA fixed)  
+
+---
+
+## Round Details  
+
+- **Round 1**  
+  - Online Test  
+  - Online  
+  - **22 Feb 2025** | **06:00 PM**  
+
+- **Round 2**  
+  - Interview  
+  - Placement Hall, 3rd Floor, Library Building  
+  - **25 Feb 2025** | **09:00 AM**  
+
+---
+
+## Profile & CTC  
+
+**Intern**  
+**Stipend**  
+**₹ 70T PM**
+==================================================
+image size:  (1836, 963)
+valid image tokens:  934
+output texts tokens (valid):  252
+compression ratio:  0.27
+==================================================
+===============save results:===============

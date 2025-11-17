@@ -1,0 +1,49 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+# STMicroelectronics _ MTech _ 2026
+
+**STMicroelectronics**  
+Not Eligible  
+
+- Greater Noida  
+- Internship  
+- 40T PM  
+- Duration : 12 month(s)  
+
+**Starts On**  
+To be announced  
+
+**Apply Before**  
+03 May 2025 | 10:00 AM  
+
+---
+
+## Drive Description
+
+On Conversion CTC - between 15 to 20 LPA  
+
+### Technical domains:
+**Hardware:**
+- Digital Design - SoC/IP, Analog / Mixed Signal  
+- Silicon Validation / Testing, Automation / CAD SW, AI / ML Chip/IP Design,  
+
+**Software:**
+- Software Development  
+
+**Both –** Hardware apply for embedded, SOC and power, Embedded SW/HWDev, SoC System Architecture, Digital Power applications  
+
+---
+
+**Core I (Spot)**  
+
+You were disabled from drive or portal when this drive was taken place  
+Drives criteria do not match your data before the last date & time to apply.
+==================================================
+image size:  (1820, 952)
+valid image tokens:  933
+output texts tokens (valid):  208
+compression ratio:  0.22
+==================================================
+===============save results:===============

@@ -1,0 +1,37 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+Dell_MTech_2026
+
+Dell Technologies  
+Not Eligible  
+
+Not Provided  
+Internship  
+35T PM  
+Duration : 12 month(s)  
+
+Starts On  To be announced  
+
+Apply Before  18 Feb 2025 | 02:00 PM  
+
+Drive Description  
+On Conversion CTC - INR 19,33,560  
+
+Download file  
+
+Round Details  
+Round 1  
+
+Profile & CTC  
+Graduate Intern - Data Science  
+Stipend  
+₹ 35T PM
+==================================================
+image size:  (1832, 957)
+valid image tokens:  933
+output texts tokens (valid):  102
+compression ratio:  0.11
+==================================================
+===============save results:===============
